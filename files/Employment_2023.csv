@@ -1,0 +1,694 @@
+Geography,Geography Code,"Population
+aged 16 to 64
+2021/2020
+(thousands)
+[note 1]","Employment
+age 16 and older 
+Apr 2022 to Mar 2023
+(thousands)
+[note 2]","Employment rate
+age 16 to 64
+Apr 2022 to Mar 2023
+%
+[note 2]","Unemployment
+age 16 and older
+Apr 2022 to Mar 2023
+(thousands)
+[note 2]","Unemployment rate
+age 16 and over
+Apr 2022 to Mar 2023
+%
+[note 2, 3]","Economic inactivity
+age 16 to 64
+Apr 2022 to Mar 2023
+(thousands)
+[note 2]","Economic inactivity rate
+age 16 to 64
+Apr 2022 to Mar 2023
+%
+[note 2]","Claimant Count
+Apr 2022 to Mar 2023
+[note 4]","Claimant Count proportion
+Apr 2022 to Mar 2023
+%
+[note 4]","Jobs
+2021
+(thousands)
+[note 5]","Jobs Density
+2021
+%
+[note 5, 6]","Earnings by resident
+2021
+(£)
+[note 7]","Earnings by workplace
+2021
+(£)
+[note 7]","Notes
+[note 8]"
+United Kingdom,K02000001,"42,175","32,681",75.5,"1,200",3.5,"9,002",21.7,"1,591,395",3.8,"35,852",0.85,611,611,
+Great Britain,K03000001,"40,988","31,802",75.6,"1,180",3.6,"8,694",21.5,"1,554,795",3.8,"34,957",0.85,613,613,
+England,E92000001,"35,600","27,701",75.8,"1,040",3.6,"7,439",21.3,"1,370,823",3.9,"30,664",0.86,613,613,
+North East,E12000001,"1,635","1,190",70.5,57,4.6,423,26.0,"72,491",4.4,"1,231",0.75,547,539,
+Berwick-upon-Tweed,E14000554,44,35,67.9,2,4.5,13,28.5,"1,134",2.6,29,0.65,566,519,Cells F10 G10 have a small sample size
+Bishop Auckland,E14000569,54,36,64.8,2,5.8,15,30.8,"2,057",3.8,35,0.65,550,547,Cells F11 G11 have a small sample size
+Blaydon,E14000574,52,44,72.8,1,2.4,15,25.5,"1,848",3.5,35,0.67,537,509,Cells F12 G12 have a small sample size
+Blyth Valley,E14000575,52,34,70.3,2,4.4,12,26.5,"2,356",4.6,35,0.67,566,555,Cells F13 G13 have a small sample size
+City of Durham,E14000641,72,46,73.8,2,4.1,14,23.0,"1,553",2.2,64,0.89,593,587,Cells F14 G14 have a small sample size
+Darlington,E14000658,56,42,75.9,1,3.4,11,21.3,"2,674",4.7,46,0.82,568,588,Cells F15 G15 have a small sample size
+Easington,E14000677,51,39,68.8,2,4.4,15,27.8,"2,505",4.9,30,0.60,520,468,Cells F16 G16 have a small sample size
+Gateshead,E14000709,65,41,71.3,2,5.1,14,24.9,"3,486",5.4,61,0.95,541,517,Cells F17 G17 have a small sample size
+Hartlepool,E14000733,57,40,68.2,3,6.1,16,27.3,"3,082",5.4,36,0.63,573,577,Cells F18 G18 have a small sample size
+Hexham,E14000746,45,34,73.2,[c],[c],10,24.8,792,1.8,32,0.72,601,490,
+Houghton and Sunderland South,E14000754,54,47,80.3,1,2.8,10,17.5,"2,484",4.6,29,0.54,518,512,Cells F20 G20 have a small sample size
+Jarrow,E14000765,51,35,63.1,2,5.7,18,32.9,"2,349",4.6,32,0.62,506,452,Cells F21 G21 have a small sample size
+Middlesbrough,E14000819,62,37,63.5,3,6.7,18,31.9,"4,597",7.4,63,1.02,487,483,Cells F22 G22 have a small sample size
+Middlesbrough South and East Cleveland,E14000820,55,44,70.8,2,4.3,16,25.9,"2,041",3.7,23,0.43,546,541,Cells F23 G23 have a small sample size
+Newcastle upon Tyne Central,E14000831,75,38,61.5,2,4.7,21,35.4,"4,500",6.0,104,1.39,546,604,Cells F24 G24 have a small sample size
+Newcastle upon Tyne East,E14000832,78,54,66.8,2,3.7,24,30.7,"2,999",3.9,65,0.84,546,574,Cells F25 G25 have a small sample size
+Newcastle upon Tyne North,E14000833,56,46,75.0,2,4.2,13,21.7,"2,096",3.7,37,0.66,635,718,Cells F26 G26 have a small sample size
+North Durham,E14000840,54,40,75.9,[c],[c],11,22.1,"2,080",3.9,26,0.49,551,526,Cells H27 I27 have a small sample size
+North Tyneside,E14000853,67,44,71.3,3,6.3,14,24.0,"2,816",4.2,47,0.70,538,518,Cells F28 G28 have a small sample size
+North West Durham,E14000856,57,51,78.4,2,4.2,11,18.1,"1,946",3.4,29,0.51,546,484,Cells F29 G29 have a small sample size
+Redcar,E14000891,53,35,68.9,1,2.6,15,29.2,"2,538",4.8,32,0.60,500,500,Cells F30 G30 have a small sample size
+Sedgefield,E14000915,51,41,71.4,2,5.0,14,24.7,"1,945",3.8,41,0.79,562,522,Cells F31 G31 have a small sample size
+South Shields,E14000944,52,32,60.0,5,13.8,16,30.3,"3,443",6.6,24,0.46,523,468,Cells F32 G32 have a small sample size
+Stockton North,E14000970,57,41,73.6,2,5.2,12,22.3,"2,966",5.2,48,0.85,509,580,Cells F33 G33 have a small sample size
+Stockton South,E14000971,64,49,73.8,1,2.0,16,24.6,"2,205",3.4,45,0.69,614,565,Cells F34 G34 have a small sample size
+Sunderland Central,E14000982,66,39,64.7,2,5.1,19,31.9,"3,445",5.2,54,0.82,486,512,Cells F35 G35 have a small sample size
+Tynemouth,E14001006,61,53,78.0,2,3.9,13,18.7,"1,863",3.0,45,0.74,659,553,Cells F36 G36 have a small sample size
+Wansbeck,E14001014,50,35,71.0,3,7.1,11,23.3,"2,158",4.3,31,0.62,554,557,Cells F37 G37 have a small sample size
+Washington and Sunderland West,E14001020,53,39,67.9,[c],[c],16,29.7,"2,536",4.7,51,0.95,454,513,
+North West,E12000002,"4,638","3,425",73.5,146,4.1,"1,046",23.3,"200,537",4.3,"3,879",0.84,578,576,
+Altrincham and Sale West,E14000532,61,48,74.1,2,3.2,14,23.3,"1,260",2.1,73,1.19,764,498,Cells F40 G40 have a small sample size
+Ashton-under-Lyne,E14000537,59,45,73.3,2,3.3,14,24.1,"3,388",5.8,41,0.69,506,498,Cells F41 G41 have a small sample size
+Barrow and Furness,E14000543,52,39,71.3,[c],[c],14,27.1,"1,549",3.0,40,0.78,627,694,
+Birkenhead,E14000559,56,34,64.6,[c],[c],16,32.8,"3,255",5.8,40,0.72,521,525,Cells H43 I43 have a small sample size
+Blackburn,E14000570,69,42,63.8,2,4.1,21,33.4,"4,179",6.1,64,0.92,517,552,Cells F44 G44 have a small sample size
+Blackley and Broughton,E14000571,78,53,63.5,[c],[c],29,36.0,"5,976",7.7,57,0.73,490,496,
+Blackpool North and Cleveleys,E14000572,49,32,68.2,2,5.4,12,27.7,"2,725",5.6,39,0.79,497,507,Cells F46 G46 have a small sample size
+Blackpool South,E14000573,48,39,74.3,2,5.9,11,21.5,"3,903",8.1,44,0.90,466,556,Cells F47 G47 have a small sample size
+Bolton North East,E14000578,61,41,72.6,2,3.9,13,24.3,"4,089",6.7,44,0.73,482,528,Cells F48 G48 have a small sample size
+Bolton South East,E14000579,66,46,65.0,5,10.1,19,27.4,"4,452",6.8,54,0.82,511,530,Cells F49 G49 have a small sample size
+Bolton West,E14000580,59,50,72.6,3,4.8,15,23.6,"2,256",3.8,44,0.73,590,533,Cells F50 G50 have a small sample size
+Bootle,E14000581,63,45,70.6,2,5.0,16,25.9,"3,797",6.0,45,0.71,532,608,Cells F51 G51 have a small sample size
+Burnley,E14000609,54,37,71.3,[c],[c],15,28.7,"3,023",5.6,44,0.82,530,467,Cells H52 I52 have a small sample size
+Bury North,E14000611,55,40,76.9,1,1.7,11,21.6,"2,557",4.7,45,0.83,575,529,Cells F53 G53 have a small sample size
+Bury South,E14000612,62,56,81.1,2,3.5,11,16.2,"2,724",4.4,38,0.62,632,539,Cells F54 G54 have a small sample size
+Carlisle,E14000620,53,47,83.1,[c],[c],8,14.3,"1,738",3.3,53,1.00,523,556,Cells H55 I55 have a small sample size
+Cheadle,E14000627,55,35,80.7,1,3.4,7,16.3,"1,180",2.1,56,1.02,745,633,Cells F56 G56 H56 I56 have a small sample size
+Chorley,E14000637,65,51,71.7,[c],[c],19,26.8,"1,828",2.8,44,0.67,650,543,
+City of Chester,E14000640,61,46,76.0,[c],[c],13,23.1,"1,863",3.0,76,1.25,629,575,
+Congleton,E14000646,57,46,80.2,2,4.8,8,15.5,"1,203",2.1,40,0.71,625,561,Cells F59 G59 H59 I59 have a small sample size
+Copeland,E14000647,47,37,75.8,3,7.7,8,17.6,"1,160",2.5,43,0.92,846,870,Cells F60 G60 have a small sample size
+Crewe and Nantwich,E14000653,69,48,75.7,3,5.3,13,20.0,"2,252",3.3,63,0.91,575,615,Cells F61 G61 H61 I61 have a small sample size
+Denton and Reddish,E14000661,55,52,84.5,1,2.3,8,13.5,"2,344",4.3,29,0.53,536,490,Cells F62 G62 have a small sample size
+,E14000686,54,41,75.5,[c],[c],12,23.4,"1,260",2.3,48,0.88,750,571,Cells H63 I63 have a small sample size
+Ellesmere Port and Neston,E14000688,53,38,70.5,[c],[c],14,26.4,"1,765",3.4,43,0.81,544,650,Cells H64 I64 have a small sample size
+Fylde,E14000706,50,44,78.3,[c],[c],11,21.0,"1,427",2.9,48,0.96,613,652,Cells H65 I65 have a small sample size
+Garston and Halewood,E14000708,61,49,69.2,[c],[c],21,30.5,"2,844",4.7,53,0.87,618,623,
+Halton,E14000725,61,48,78.4,1,2.2,12,19.8,"2,624",4.3,40,0.65,592,601,Cells F67 G67 have a small sample size
+Hazel Grove,E14000738,46,43,75.8,2,4.9,11,20.2,"1,428",3.1,28,0.60,634,501,Cells F68 G68 have a small sample size
+Heywood and Middleton,E14000747,67,47,79.6,2,3.1,10,17.7,"3,480",5.2,38,0.57,568,495,Cells F69 G69 have a small sample size
+Hyndburn,E14000758,57,54,76.2,[c],[c],13,20.1,"3,088",5.4,38,0.67,525,502,Cells H70 I70 have a small sample size
+Knowsley,E14000775,68,48,75.1,2,3.4,14,22.4,"3,709",5.5,48,0.71,570,564,Cells F71 G71 have a small sample size
+Lancaster and Fleetwood,E14000776,63,35,63.8,3,8.5,16,30.2,"1,828",2.9,44,0.70,633,574,Cells F72 G72 have a small sample size
+Leigh,E14000785,68,50,76.3,3,5.4,12,19.2,"2,808",4.2,40,0.59,602,517,Cells F73 G73 have a small sample size
+"Liverpool, Riverside",E14000793,110,64,71.2,4,6.1,21,24.1,"4,691",4.3,152,1.39,603,630,Cells F74 G74 have a small sample size
+"Liverpool, Walton",E14000794,60,33,64.9,[c],[c],17,33.7,"4,537",7.6,41,0.69,503,528,Cells H75 I75 have a small sample size
+"Liverpool, Wavertree",E14000795,63,51,78.5,[c],[c],13,20.6,"4,081",6.5,34,0.54,606,579,Cells H76 I76 have a small sample size
+"Liverpool, West Derby",E14000796,58,48,65.2,[c],[c],24,33.5,"3,690",6.3,24,0.42,565,727,
+Macclesfield,E14000802,55,48,78.1,2,4.8,10,17.8,"1,383",2.5,50,0.92,667,629,Cells F78 G78 H78 I78 have a small sample size
+Makerfield,E14000805,62,43,77.7,[c],[c],11,20.1,"1,985",3.2,27,0.43,594,587,Cells H79 I79 have a small sample size
+Manchester Central,E14000807,132,84,71.2,7,7.7,27,23.1,"6,598",5.0,279,2.10,528,649,Cells F80 G80 have a small sample size
+"Manchester, Gorton",E14000808,83,39,65.3,5,10.4,16,27.0,"6,181",7.5,31,0.38,491,547,Cells F81 G81 H81 I81 have a small sample size
+"Manchester, Withington",E14000809,71,71,72.7,[c],[c],24,25.1,"2,935",4.2,41,0.58,631,498,
+Morecambe and Lunesdale,E14000825,52,49,77.8,[c],[c],12,19.8,"2,047",3.9,30,0.58,581,556,Cells H83 I83 have a small sample size
+Oldham East and Saddleworth,E14000870,66,40,71.3,1,2.6,15,26.8,"4,298",6.5,37,0.57,580,523,Cells F84 G84 have a small sample size
+Oldham West and Royton,E14000871,67,55,72.1,2,4.1,18,24.7,"4,796",7.1,50,0.75,528,569,Cells F85 G85 have a small sample size
+Pendle,E14000875,55,39,69.2,[c],[c],17,30.0,"2,787",5.0,35,0.64,477,511,Cells H86 I86 have a small sample size
+Penrith and The Border,E14000877,48,38,76.0,2,4.8,9,19.7,948,2.0,51,1.06,597,555,Cells F87 G87 have a small sample size
+Preston,E14000885,65,39,62.2,4,8.5,19,31.8,"3,693",5.6,72,1.11,466,522,Cells F88 G88 H88 I88 have a small sample size
+Ribble Valley,E14000894,62,53,82.8,[c],[c],10,16.2,"1,217",2.0,58,0.94,580,660,Cells H89 I89 have a small sample size
+Rochdale,E14000897,71,46,58.1,1,2.9,31,40.6,"5,050",7.1,47,0.66,466,537,Cells F90 G90 have a small sample size
+Rossendale and Darwen,E14000902,61,45,77.8,4,8.0,8,15.0,"2,391",3.9,30,0.50,582,576,Cells F91 G91 have a small sample size
+Salford and Eccles,E14000911,89,58,75.0,4,6.0,15,20.2,"4,431",5.0,114,1.27,537,604,Cells F92 G92 have a small sample size
+Sefton Central,E14000916,46,37,79.0,2,4.1,8,17.5,"1,030",2.2,26,0.55,657,466,Cells F93 G93 have a small sample size
+South Ribble,E14000943,59,38,79.6,4,8.5,6,13.0,"1,286",2.2,37,0.62,571,504,Cells F94 G94 H94 I94 have a small sample size
+Southport,E14000958,53,42,74.9,1,3.3,11,22.3,"1,983",3.7,35,0.66,622,534,Cells F95 G95 have a small sample size
+Stalybridge and Hyde,E14000967,59,48,77.4,2,3.2,13,20.6,"2,674",4.5,27,0.46,535,494,Cells F96 G96 have a small sample size
+St Helens North,E14000962,61,47,75.7,2,4.1,13,20.9,"2,422",4.0,37,0.62,572,541,Cells F97 G97 have a small sample size
+St Helens South and Whiston,E14000963,64,51,73.8,1,2.3,17,24.4,"2,944",4.6,59,0.92,574,757,Cells F98 G98 have a small sample size
+Stockport,E14000969,58,45,75.7,4,9.0,10,17.3,"2,862",4.9,65,1.12,554,536,Cells F99 G99 H99 I99 have a small sample size
+Stretford and Urmston,E14000979,64,41,72.0,2,4.9,14,24.2,"2,797",4.4,92,1.44,610,604,Cells F100 G100 have a small sample size
+Tatton,E14000987,50,40,71.9,[c],[c],13,25.9,"1,097",2.2,72,1.43,661,601,Cells H101 I101 have a small sample size
+Wallasey,E14001010,55,42,84.1,[c],[c],7,14.8,"2,513",4.5,24,0.43,524,479,Cells H102 I102 have a small sample size
+Warrington North,E14001017,60,49,75.2,1,2.4,14,22.9,"1,978",3.3,72,1.19,571,681,Cells F103 G103 have a small sample size
+Warrington South,E14001018,70,57,80.1,1,2.1,13,18.2,"1,787",2.6,83,1.19,672,571,Cells F104 G104 have a small sample size
+Weaver Vale,E14001024,55,45,78.7,[c],[c],11,20.5,"1,658",3.0,51,0.94,601,608,
+West Lancashire,E14001033,60,45,69.0,[c],[c],18,28.3,"1,987",3.3,52,0.87,566,563,Cells H106 I106 have a small sample size
+Westmorland and Lonsdale,E14001037,48,38,79.5,[c],[c],8,18.9,755,1.6,49,1.03,543,504,
+Wigan,E14001039,66,54,74.0,4,6.6,15,20.6,"2,850",4.3,53,0.80,519,515,Cells F108 G108 have a small sample size
+Wirral South,E14001043,42,37,76.5,[c],[c],11,22.4,844,2.0,34,0.80,600,509,Cells H109 I109 have a small sample size
+Wirral West,E14001044,39,42,82.6,2,5.0,6,12.9,842,2.2,22,0.57,678,608,Cells F110 G110 H110 I110 have a small sample size
+Workington,E14001053,47,34,74.5,2,5.7,9,20.9,"1,279",2.7,33,0.69,645,517,Cells F111 G111 have a small sample size
+Worsley and Eccles South,E14001054,65,46,65.3,5,9.5,19,27.7,"3,517",5.4,33,0.50,554,516,Cells F112 G112 have a small sample size
+Wyre and Preston North,E14001057,53,39,85.2,[c],[c],6,13.9,944,1.8,49,0.92,625,555,Cells H113 I113 have a small sample size
+Wythenshawe and Sale East,E14001059,67,62,66.0,5,7.5,26,28.7,"3,792",5.6,86,1.28,546,571,Cells F114 G114 have a small sample size
+Yorkshire and The Humber,E12000003,"3,415","2,612",74.6,97,3.6,765,22.6,"142,783",4.2,"2,776",0.81,569,564,
+Barnsley Central,E14000541,58,41,73.2,1,3.3,13,24.2,"2,290",3.9,46,0.79,488,547,Cells F116 G116 have a small sample size
+Barnsley East,E14000542,59,47,77.3,[c],[c],12,21.0,"2,180",3.7,29,0.50,558,538,
+Batley and Spen,E14000548,68,39,64.5,4,9.6,16,28.2,"3,140",4.6,50,0.73,541,527,Cells F118 G118 have a small sample size
+Beverley and Holderness,E14000556,57,50,75.3,2,4.6,13,21.2,"1,327",2.3,40,0.71,647,606,Cells F119 G119 have a small sample size
+Bradford East,E14000587,74,58,72.4,5,8.2,17,21.1,"6,478",8.7,43,0.58,527,597,Cells F120 G120 H120 I120 have a small sample size
+Bradford South,E14000588,65,45,63.6,3,6.6,23,32.2,"4,619",7.1,44,0.67,563,550,Cells F121 G121 have a small sample size
+Bradford West,E14000589,78,38,66.1,3,6.5,17,29.2,"7,383",9.5,67,0.87,518,556,Cells F122 G122 H122 I122 have a small sample size
+Brigg and Goole,E14000596,53,48,78.3,2,3.9,11,18.3,"1,593",3.0,38,0.72,602,599,Cells F123 G123 have a small sample size
+Calder Valley,E14000614,64,57,75.1,2,3.2,16,22.3,"1,887",2.9,54,0.83,611,531,Cells F124 G124 have a small sample size
+Cleethorpes,E14000643,55,44,77.4,1,1.8,11,21.3,"1,571",2.9,47,0.86,601,581,Cells F125 G125 have a small sample size
+Colne Valley,E14000645,68,57,69.2,[c],[c],23,28.9,"2,363",3.5,39,0.56,587,513,
+Dewsbury,E14000666,70,44,69.4,1,2.8,17,28.5,"2,871",4.1,43,0.61,526,499,Cells F127 G127 have a small sample size
+Don Valley,E14000667,61,53,75.7,2,2.9,15,22.0,"2,218",3.6,35,0.58,598,485,Cells F128 G128 have a small sample size
+Doncaster Central,E14000668,71,47,72.4,2,3.5,16,24.9,"4,111",5.8,76,1.08,546,549,Cells F129 G129 have a small sample size
+Doncaster North,E14000669,60,41,73.8,[c],[c],12,23.5,"2,821",4.7,27,0.45,575,528,
+East Yorkshire,E14000683,57,39,74.0,[c],[c],13,25.7,"1,774",3.1,39,0.68,586,528,
+Elmet and Rothwell,E14000689,58,69,83.2,[c],[c],13,16.3,"1,170",2.0,43,0.74,701,611,Cells H132 I132 have a small sample size
+Great Grimsby,E14000716,54,43,70.5,2,3.8,16,26.6,"2,883",5.3,47,0.86,547,539,Cells F133 G133 have a small sample size
+Halifax,E14000723,66,42,69.8,3,5.9,14,25.6,"3,427",5.2,50,0.77,520,540,Cells F134 G134 have a small sample size
+Haltemprice and Howden,E14000724,53,40,79.5,1,3.0,9,17.9,869,1.6,42,0.79,671,583,Cells F135 G135 have a small sample size
+Harrogate and Knaresborough,E14000730,62,54,86.1,[c],[c],8,13.9,"1,240",2.0,67,1.09,638,567,Cells H136 I136 have a small sample size
+Hemsworth,E14000740,61,40,66.6,1,3.2,18,31.1,"2,058",3.4,32,0.53,495,479,Cells F137 G137 have a small sample size
+Huddersfield,E14000756,66,59,76.5,[c],[c],16,21.6,"3,514",5.3,58,0.88,553,567,
+Keighley,E14000766,58,43,76.2,2,4.7,11,20.0,"2,406",4.2,44,0.76,554,462,Cells F139 G139 H139 I139 have a small sample size
+Kingston upon Hull East,E14000771,55,39,71.5,1,2.5,14,26.6,"3,095",5.6,44,0.81,504,585,Cells F140 G140 have a small sample size
+Kingston upon Hull North,E14000772,65,42,67.5,5,10.1,15,24.6,"3,793",5.8,27,0.42,484,461,Cells F141 G141 have a small sample size
+Kingston upon Hull West and Hessle,E14000773,57,53,75.4,2,3.8,14,21.5,"3,909",6.9,76,1.34,587,566,Cells F142 G142 have a small sample size
+Leeds Central,E14000777,119,62,68.6,3,5.0,24,27.7,"7,004",5.9,235,1.98,515,630,Cells F143 G143 H143 I143 have a small sample size
+Leeds East,E14000778,63,50,69.6,3,4.9,19,26.7,"4,571",7.3,44,0.70,509,532,Cells F144 G144 H144 I144 have a small sample size
+Leeds North East,E14000779,59,48,73.6,[c],[c],16,25.2,"2,496",4.3,28,0.48,648,460,Cells H145 I145 have a small sample size
+Leeds North West,E14000780,59,34,84.8,[c],[c],6,15.2,"1,460",2.5,31,0.53,623,551,Cells H146 I146 have a small sample size
+Leeds West,E14000781,64,58,77.6,[c],[c],16,21.9,"4,028",6.3,56,0.87,518,596,Cells H147 I147 have a small sample size
+Morley and Outwood,E14000826,63,44,83.8,[c],[c],6,12.4,"1,535",2.4,55,0.87,655,576,Cells H148 I148 have a small sample size
+"Normanton, Pontefract and Castleford",E14000836,72,61,74.6,1,2.4,19,23.6,"2,744",3.8,58,0.79,539,546,Cells F149 G149 have a small sample size
+Penistone and Stocksbridge,E14000876,53,44,77.3,4,9.2,8,14.8,"1,223",2.3,33,0.63,687,581,Cells F150 G150 have a small sample size
+Pudsey,E14000886,56,57,82.9,[c],[c],10,15.2,"1,294",2.3,41,0.72,634,557,Cells H151 I151 have a small sample size
+Richmond (Yorks),E14000895,65,50,80.7,[c],[c],9,16.6,"1,082",1.7,60,0.93,537,567,Cells H152 I152 have a small sample size
+Rother Valley,E14000903,58,50,81.6,1,2.3,10,16.9,"1,865",3.2,33,0.57,557,518,Cells F153 G153 have a small sample size
+Rotherham,E14000904,58,26,66.6,1,4.2,11,30.4,"3,841",6.7,49,0.85,479,578,Cells F154 G154 have a small sample size
+Scarborough and Whitby,E14000913,55,46,73.3,2,3.9,13,23.4,"1,886",3.4,50,0.90,552,499,Cells F155 G155 have a small sample size
+Scunthorpe,E14000914,57,35,76.7,[c],[c],10,22.9,"2,559",4.5,51,0.90,497,512,
+Selby and Ainsty,E14000917,64,52,79.5,[c],[c],12,19.2,"1,401",2.2,49,0.76,612,571,Cells H157 I157 have a small sample size
+Sheffield Central,E14000919,112,72,73.0,6,7.8,20,20.7,"3,445",3.1,122,1.09,580,579,Cells F158 G158 H158 I158 have a small sample size
+Sheffield South East,E14000920,59,42,70.3,3,6.1,15,25.1,"2,812",4.8,67,1.14,533,567,Cells F159 G159 have a small sample size
+"Sheffield, Brightside and Hillsborough",E14000921,70,41,66.2,5,10.5,15,25.8,"4,763",6.8,42,0.60,515,528,Cells F160 G160 H160 I160 have a small sample size
+"Sheffield, Hallam",E14000922,57,53,81.9,[c],[c],10,16.1,829,1.5,24,0.42,766,575,Cells H161 I161 have a small sample size
+"Sheffield, Heeley",E14000923,60,55,70.0,2,3.8,21,27.1,"3,104",5.2,23,0.39,569,485,Cells F162 G162 have a small sample size
+Shipley,E14000925,57,51,74.5,[c],[c],16,24.4,"1,924",3.4,36,0.62,558,564,
+Skipton and Ripon,E14000928,57,45,73.8,[c],[c],14,26.2,968,1.7,60,1.05,574,561,
+Thirsk and Malton,E14000993,59,48,76.9,[c],[c],13,21.1,"1,099",1.9,51,0.87,518,516,
+Wakefield,E14001009,63,41,75.7,[c],[c],12,23.8,"2,756",4.4,63,0.99,509,524,
+Wentworth and Dearne,E14001028,60,58,68.2,2,2.9,25,29.7,"2,555",4.2,41,0.67,538,507,Cells F167 G167 have a small sample size
+York Central,E14001061,82,65,85.3,[c],[c],10,13.8,"1,827",2.2,71,0.87,546,655,
+York Outer,E14001062,58,55,85.7,1,1.4,8,13.1,725,1.3,57,0.99,666,601,Cells F169 G169 have a small sample size
+East Midlands,E12000004,"3,041","2,335",75.2,69,2.9,667,22.6,"100,887",3.3,"2,422",0.80,573,560,
+Amber Valley,E14000533,56,42,73.2,2,5.4,12,22.4,"1,604",2.8,43,0.76,599,578,Cells F171 G171 have a small sample size
+Ashfield,E14000535,66,52,71.7,[c],[c],19,27.3,"2,488",3.8,56,0.86,538,533,
+Bassetlaw,E14000546,65,47,75.8,2,4.2,12,20.6,"2,106",3.2,51,0.79,504,517,Cells F173 G173 H173 I173 have a small sample size
+Bolsover,E14000577,63,43,71.2,[c],[c],16,27.9,"1,800",2.9,41,0.66,527,543,Cells H174 I174 have a small sample size
+Boston and Skegness,E14000582,63,50,67.1,2,3.9,19,29.8,"3,000",4.7,51,0.80,495,494,Cells F175 G175 H175 I175 have a small sample size
+Bosworth,E14000583,64,53,81.7,[c],[c],11,17.5,"1,668",2.6,48,0.75,573,549,Cells H176 I176 have a small sample size
+Broxtowe,E14000607,62,41,67.0,2,4.1,17,30.0,"1,477",2.4,36,0.59,669,555,Cells F177 G177 have a small sample size
+Charnwood,E14000625,64,59,78.1,3,4.5,12,17.8,"1,230",1.9,41,0.65,575,530,Cells F178 G178 H178 I178 have a small sample size
+Chesterfield,E14000632,58,50,80.2,[c],[c],11,18.4,"1,945",3.3,53,0.90,525,521,Cells H179 I179 have a small sample size
+Corby,E14000648,78,59,69.8,3,5.4,20,25.9,"2,414",3.1,61,0.78,575,547,Cells F180 G180 have a small sample size
+Daventry,E14000660,62,54,83.0,[c],[c],10,16.5,"1,483",2.4,57,0.91,643,577,
+Derby North,E14000662,65,59,75.0,2,3.3,17,22.4,"2,514",3.9,60,0.92,587,634,Cells F182 G182 have a small sample size
+Derby South,E14000663,74,41,75.8,1,2.5,12,22.1,"4,864",6.6,87,1.19,562,755,Cells F183 G183 have a small sample size
+Derbyshire Dales,E14000664,47,40,71.7,[c],[c],14,28.3,764,1.6,43,0.91,598,566,
+Erewash,E14000695,61,47,74.3,3,5.6,13,21.1,"2,026",3.3,36,0.60,588,578,Cells F185 G185 have a small sample size
+Gainsborough,E14000707,57,50,84.7,1,1.2,8,14.3,"1,833",3.2,35,0.61,612,586,Cells F186 G186 H186 I186 have a small sample size
+Gedling,E14000710,59,47,73.8,2,3.3,15,24.1,"1,862",3.1,28,0.47,571,518,Cells F187 G187 have a small sample size
+Grantham and Stamford,E14000714,66,60,75.8,[c],[c],17,22.7,"2,057",3.1,55,0.82,575,566,Cells H188 I188 have a small sample size
+Harborough,E14000728,65,55,83.4,2,3.0,9,13.8,"1,423",2.2,45,0.69,591,515,Cells F189 G189 H189 I189 have a small sample size
+High Peak,E14000748,57,49,80.0,[c],[c],10,18.1,"1,393",2.4,37,0.64,574,531,
+Kettering,E14000769,62,48,73.9,3,6.3,13,20.9,"2,190",3.5,54,0.87,608,566,Cells F191 G191 have a small sample size
+Leicester East,E14000782,73,54,65.0,4,7.3,24,29.7,"3,349",4.6,42,0.57,481,538,Cells F192 G192 have a small sample size
+Leicester South,E14000783,90,59,66.0,2,3.9,27,31.2,"4,156",4.6,93,1.03,534,575,Cells F193 G193 have a small sample size
+Leicester West,E14000784,72,57,79.7,2,3.3,12,17.5,"4,359",6.1,47,0.65,512,532,Cells F194 G194 have a small sample size
+Lincoln,E14000792,77,50,75.1,[c],[c],16,24.2,"3,116",4.1,67,0.88,547,566,
+Loughborough,E14000797,76,49,76.0,[c],[c],15,23.2,"1,731",2.3,52,0.69,571,611,Cells H196 I196 have a small sample size
+Louth and Horncastle,E14000798,55,35,64.3,[c],[c],17,33.8,"1,575",2.9,37,0.67,543,510,
+Mansfield,E14000810,67,53,71.4,[c],[c],20,27.4,"2,694",4.0,42,0.63,518,521,
+Mid Derbyshire,E14000814,49,43,72.5,1,2.3,15,25.7,884,1.8,26,0.52,702,495,Cells F199 G199 have a small sample size
+Newark,E14000829,63,58,80.8,[c],[c],13,19.2,"1,749",2.8,51,0.81,640,588,
+North East Derbyshire,E14000843,55,46,78.2,[c],[c],12,21.8,"1,396",2.6,33,0.61,597,603,Cells H201 I201 have a small sample size
+North West Leicestershire,E14000858,65,49,76.8,[c],[c],14,21.8,"1,393",2.2,73,1.13,643,578,Cells H202 I202 have a small sample size
+Northampton North,E14000861,53,46,76.6,[c],[c],12,21.0,"2,554",4.8,44,0.84,568,558,Cells H203 I203 have a small sample size
+Northampton South,E14000862,65,57,78.8,[c],[c],14,20.5,"3,351",5.1,78,1.20,547,532,Cells H204 I204 have a small sample size
+Nottingham East,E14000865,82,50,65.6,2,4.7,23,31.0,"5,028",6.1,70,0.84,497,506,Cells F205 G205 have a small sample size
+Nottingham North,E14000866,61,41,53.9,6,13.4,28,37.6,"4,192",6.9,36,0.60,469,494,Cells F206 G206 have a small sample size
+Nottingham South,E14000867,92,56,71.3,[c],[c],21,27.5,"3,141",3.4,123,1.33,513,554,
+Rushcliffe,E14000908,63,50,83.7,[c],[c],10,16.3,"1,071",1.7,44,0.70,637,602,Cells H208 I208 have a small sample size
+Rutland and Melton,E14000909,62,51,81.3,2,3.1,9,15.9,"1,287",2.1,51,0.81,616,508,Cells F209 G209 have a small sample size
+Sherwood,E14000924,62,50,83.8,[c],[c],8,14.6,"1,965",3.2,35,0.56,550,518,Cells H210 I210 have a small sample size
+Sleaford and North Hykeham,E14000929,70,60,76.1,[c],[c],17,23.2,"1,460",2.1,56,0.81,621,531,
+South Derbyshire,E14000935,69,51,76.2,3,6.1,12,18.6,"1,443",2.1,37,0.54,630,576,Cells F212 G212 H212 I212 have a small sample size
+South Holland and The Deepings,E14000939,64,51,82.2,[c],[c],10,17.8,"1,861",2.9,51,0.80,575,543,Cells H213 I213 have a small sample size
+South Leicestershire,E14000940,67,58,82.5,2,2.8,10,15.1,"1,367",2.1,76,1.15,577,574,Cells F214 G214 H214 I214 have a small sample size
+South Northamptonshire,E14000942,74,59,88.9,[c],[c],7,11.1,"1,323",1.8,85,1.15,665,607,Cells H215 I215 have a small sample size
+Wellingborough,E14001025,69,54,76.6,[c],[c],14,20.9,"2,304",3.3,54,0.78,565,573,
+West Midlands,E12000005,"3,683","2,796",73.8,135,4.6,819,22.5,"181,363",4.9,"2,978",0.81,582,585,
+Aldridge-Brownhills,E14000531,46,49,83.3,1,2.6,8,14.4,"1,424",3.1,28,0.60,589,565,Cells F218 G218 H218 I218 have a small sample size
+"Birmingham, Edgbaston",E14000560,71,50,68.8,2,4.7,19,27.5,"4,935",7.0,82,1.15,577,575,Cells F219 G219 H219 I219 have a small sample size
+"Birmingham, Erdington",E14000561,66,44,62.3,7,13.9,19,27.4,"6,606",10.0,38,0.58,515,611,Cells F220 G220 have a small sample size
+"Birmingham, Hall Green",E14000562,77,31,60.2,4,10.6,16,32.6,"7,116",9.3,33,0.43,555,483,Cells F221 G221 H221 I221 have a small sample size
+"Birmingham, Hodge Hill",E14000563,79,43,56.7,5,11.1,27,36.0,"8,359",10.6,32,0.40,491,504,Cells F222 G222 have a small sample size
+"Birmingham, Ladywood",E14000564,109,69,76.4,7,9.2,14,15.7,"11,699",10.7,234,2.15,567,672,Cells F223 G223 H223 I223 have a small sample size
+"Birmingham, Northfield",E14000565,62,64,80.6,[c],[c],14,18.0,"4,871",7.8,28,0.45,553,589,Cells H224 I224 have a small sample size
+"Birmingham, Perry Barr",E14000566,72,46,59.4,3,6.2,28,36.6,"7,423",10.3,35,0.48,506,606,Cells F225 G225 have a small sample size
+"Birmingham, Selly Oak",E14000567,75,66,60.4,3,4.8,38,36.5,"4,281",5.7,30,0.40,641,614,Cells F226 G226 have a small sample size
+"Birmingham, Yardley",E14000568,70,42,55.9,3,7.2,29,39.6,"6,029",8.6,39,0.55,550,537,Cells F227 G227 have a small sample size
+Bromsgrove,E14000605,59,49,78.0,[c],[c],12,20.1,"1,607",2.7,46,0.79,668,553,
+Burton,E14000610,68,54,78.0,[c],[c],13,19.6,"2,193",3.2,61,0.90,566,566,Cells H229 I229 have a small sample size
+Cannock Chase,E14000618,64,52,85.0,2,4.1,7,11.3,"2,035",3.2,47,0.74,583,546,Cells F230 G230 H230 I230 have a small sample size
+Coventry North East,E14000649,86,69,68.1,2,2.7,30,30.0,"5,142",6.0,62,0.73,541,593,Cells F231 G231 have a small sample size
+Coventry North West,E14000650,75,66,83.7,2,2.6,11,14.2,"3,148",4.2,34,0.46,622,558,Cells F232 G232 have a small sample size
+Coventry South,E14000651,95,50,65.5,6,10.3,20,27.0,"3,602",3.8,87,0.92,659,748,Cells F233 G233 have a small sample size
+Dudley North,E14000671,53,41,78.8,[c],[c],9,18.5,"3,214",6.1,36,0.69,576,688,Cells H234 I234 have a small sample size
+Dudley South,E14000672,49,36,73.8,[c],[c],11,23.8,"2,543",5.2,46,0.94,598,575,Cells H235 I235 have a small sample size
+Halesowen and Rowley Regis,E14000722,54,35,84.9,[c],[c],5,13.5,"2,472",4.6,32,0.59,589,641,Cells H236 I236 have a small sample size
+Hereford and South Herefordshire,E14000743,62,47,75.0,[c],[c],14,24.3,"1,509",2.5,62,1.01,568,550,
+Kenilworth and Southam,E14000767,52,37,78.4,[c],[c],9,21.0,984,1.9,54,1.05,795,714,
+Lichfield,E14000791,57,55,84.8,[c],[c],10,15.2,"1,372",2.4,54,0.94,701,565,Cells H239 I239 have a small sample size
+Ludlow,E14000799,48,42,84.8,[c],[c],6,12.6,"1,227",2.6,37,0.77,603,502,Cells H240 I240 have a small sample size
+Meriden,E14000812,68,56,74.9,4,6.6,14,19.8,"2,902",4.3,94,1.38,643,690,Cells F241 G241 have a small sample size
+Mid Worcestershire,E14000818,62,58,83.0,4,5.9,8,11.8,"1,831",2.9,50,0.80,553,586,Cells F242 G242 H242 I242 have a small sample size
+Newcastle-under-Lyme,E14000834,61,43,72.7,[c],[c],14,25.4,"1,765",2.9,42,0.68,556,527,Cells H243 I243 have a small sample size
+North Herefordshire,E14000847,51,45,75.6,1,2.7,12,22.3,"1,155",2.2,45,0.87,537,523,Cells F244 G244 have a small sample size
+North Shropshire,E14000849,67,48,73.4,2,3.4,15,23.8,"1,640",2.5,50,0.76,611,556,Cells F245 G245 have a small sample size
+North Warwickshire,E14000854,57,48,82.9,1,2.5,9,14.9,"1,794",3.2,64,1.13,599,575,Cells F246 G246 H246 I246 have a small sample size
+Nuneaton,E14000868,59,37,73.8,2,5.2,11,22.1,"2,457",4.1,38,0.63,552,497,Cells F247 G247 H247 I247 have a small sample size
+Redditch,E14000892,56,42,79.2,[c],[c],9,18.2,"2,096",3.8,44,0.78,509,662,Cells H248 I248 have a small sample size
+Rugby,E14000905,64,57,84.9,2,2.9,8,12.4,"1,899",2.9,50,0.78,656,694,Cells F249 G249 H249 I249 have a small sample size
+Shrewsbury and Atcham,E14000926,66,52,79.4,2,2.9,11,18.1,"1,695",2.6,67,1.01,556,558,Cells F250 G250 have a small sample size
+Solihull,E14000931,61,47,81.8,1,2.1,9,16.3,"1,525",2.5,61,1.00,727,643,Cells F251 G251 have a small sample size
+South Staffordshire,E14000945,58,48,92.2,[c],[c],4,7.8,"1,593",2.7,33,0.56,632,538,Cells H252 I252 have a small sample size
+Stafford,E14000965,61,60,78.4,[c],[c],14,19.5,"1,741",2.8,58,0.95,594,601,Cells H253 I253 have a small sample size
+Staffordshire Moorlands,E14000966,46,39,78.2,[c],[c],9,19.3,897,1.9,29,0.63,617,601,Cells H254 I254 have a small sample size
+Stoke-on-Trent Central,E14000972,57,35,66.1,1,3.0,17,31.8,"3,481",6.1,76,1.33,529,558,Cells F255 G255 have a small sample size
+Stoke-on-Trent North,E14000973,61,58,72.7,4,6.6,18,22.1,"3,260",5.4,34,0.56,512,525,Cells F256 G256 have a small sample size
+Stoke-on-Trent South,E14000974,54,37,77.4,1,2.4,9,20.6,"2,389",4.4,34,0.64,524,540,Cells F257 G257 H257 I257 have a small sample size
+Stone,E14000975,50,37,78.1,[c],[c],7,17.8,926,1.8,37,0.74,664,585,Cells H258 I258 have a small sample size
+Stourbridge,E14000976,54,51,77.0,3,6.2,12,17.8,"2,287",4.2,29,0.54,587,515,Cells F259 G259 H259 I259 have a small sample size
+Stratford-on-Avon,E14000977,55,47,80.1,1,2.7,9,17.3,"1,239",2.2,58,1.05,645,555,Cells F260 G260 have a small sample size
+Sutton Coldfield,E14000985,54,56,80.9,2,2.7,11,16.8,"1,385",2.6,39,0.72,691,599,Cells F261 G261 H261 I261 have a small sample size
+Tamworth,E14000986,58,45,84.6,[c],[c],7,13.3,"2,014",3.4,43,0.73,604,486,Cells H262 I262 have a small sample size
+Telford,E14000989,62,50,71.0,3,5.6,17,24.6,"2,795",4.5,60,0.98,534,595,Cells F263 G263 have a small sample size
+The Wrekin,E14000992,61,45,82.9,2,3.3,8,14.2,"1,646",2.7,46,0.75,685,568,Cells F264 G264 have a small sample size
+Walsall North,E14001011,62,37,63.7,6,14.2,15,25.6,"3,998",6.5,36,0.58,516,555,Cells F265 G265 have a small sample size
+Walsall South,E14001012,67,42,67.9,4,8.7,15,25.3,"4,504",6.7,51,0.77,544,546,Cells F266 G266 have a small sample size
+Warley,E14001016,63,50,64.2,3,4.8,24,32.4,"4,415",7.0,31,0.49,477,499,Cells F267 G267 have a small sample size
+Warwick and Leamington,E14001019,68,62,84.4,2,2.8,9,13.1,"1,782",2.6,76,1.11,680,615,Cells F268 G268 have a small sample size
+West Bromwich East,E14001029,58,29,59.9,3,8.7,16,34.8,"3,850",6.6,39,0.67,574,540,Cells F269 G269 have a small sample size
+West Bromwich West,E14001030,61,44,60.5,4,7.5,24,34.5,"4,034",6.7,53,0.87,543,568,Cells F270 G270 have a small sample size
+West Worcestershire,E14001035,54,42,74.8,2,3.6,11,22.2,"1,471",2.7,44,0.81,576,542,Cells F271 G271 H271 I271 have a small sample size
+Wolverhampton North East,E14001049,57,43,76.2,3,6.3,11,18.9,"4,176",7.3,48,0.84,539,533,Cells F272 G272 H272 I272 have a small sample size
+Wolverhampton South East,E14001050,59,36,56.1,4,10.7,23,36.8,"4,628",7.9,35,0.60,494,534,Cells F273 G273 have a small sample size
+Wolverhampton South West,E14001051,56,35,69.0,2,4.4,14,27.7,"3,909",7.0,39,0.70,603,596,Cells F274 G274 have a small sample size
+Worcester,E14001052,64,51,77.2,[c],[c],13,20.6,"2,410",3.8,63,0.99,580,569,Cells H275 I275 have a small sample size
+Wyre Forest,E14001058,58,45,71.1,[c],[c],16,26.3,"1,986",3.4,43,0.74,584,530,
+East,E12000006,"3,911","3,125",78.3,89,2.8,738,19.4,"118,147",3.0,"3,282",0.84,629,602,
+Basildon and Billericay,E14000544,59,57,86.0,1,2.6,8,11.7,"2,162",3.6,61,1.02,638,596,Cells F278 G278 H278 I278 have a small sample size
+Bedford,E14000552,67,54,77.0,[c],[c],15,21.6,"3,599",5.4,64,0.96,599,594,
+Braintree,E14000590,61,56,82.1,[c],[c],9,14.9,"1,618",2.6,42,0.68,600,502,Cells H280 I280 have a small sample size
+Brentwood and Ongar,E14000594,59,46,82.4,[c],[c],9,16.3,"1,524",2.6,50,0.84,671,644,Cells H281 I281 have a small sample size
+Broadland,E14000603,58,41,79.2,[c],[c],10,20.8,"1,203",2.1,39,0.68,613,530,Cells H282 I282 have a small sample size
+Broxbourne,E14000606,63,50,78.4,[c],[c],13,20.5,"2,128",3.4,42,0.67,702,681,Cells H283 I283 have a small sample size
+Bury St Edmunds,E14000613,71,48,76.7,[c],[c],14,23.3,"1,546",2.2,87,1.22,604,598,Cells H284 I284 have a small sample size
+Cambridge,E14000617,80,63,78.6,[c],[c],16,20.3,"2,006",2.5,95,1.18,727,683,
+Castle Point,E14000622,52,45,72.8,3,5.3,12,22.6,"1,256",2.4,26,0.50,605,519,Cells F286 G286 H286 I286 have a small sample size
+Central Suffolk and North Ipswich,E14000624,59,63,79.6,[c],[c],15,20.4,"1,253",2.1,46,0.77,601,546,
+Chelmsford,E14000628,71,59,77.4,2,3.8,14,19.3,"1,974",2.8,67,0.95,637,631,Cells F288 G288 H288 I288 have a small sample size
+Clacton,E14000642,47,18,50.1,[c],[c],17,46.8,"2,537",5.4,30,0.63,536,477,
+Colchester,E14000644,83,65,75.4,[c],[c],19,21.9,"2,709",3.3,64,0.77,592,562,Cells H290 I290 have a small sample size
+Epping Forest,E14000693,63,55,75.3,2,4.3,15,21.2,"1,915",3.1,50,0.80,678,633,Cells F291 G291 have a small sample size
+Great Yarmouth,E14000717,57,39,65.9,[c],[c],17,30.0,"2,838",5.0,44,0.76,518,564,Cells H292 I292 have a small sample size
+Harlow,E14000729,60,46,78.4,[c],[c],10,17.7,"2,776",4.6,53,0.88,552,533,Cells H293 I293 have a small sample size
+Harwich and North Essex,E14000734,58,51,75.0,[c],[c],14,22.0,"1,401",2.4,41,0.70,595,582,Cells H294 I294 have a small sample size
+Hemel Hempstead,E14000739,68,50,78.3,[c],[c],12,19.7,"2,190",3.2,111,1.64,667,643,Cells H295 I295 have a small sample size
+Hertford and Stortford,E14000744,74,61,84.4,[c],[c],10,14.1,"1,425",1.9,66,0.90,736,623,Cells H296 I296 have a small sample size
+Hertsmere,E14000745,64,48,70.8,3,5.2,16,25.0,"2,024",3.2,69,1.09,656,672,Cells F297 G297 have a small sample size
+Hitchin and Harpenden,E14000749,63,47,81.9,[c],[c],9,16.8,"1,157",1.8,57,0.91,773,671,Cells H298 I298 have a small sample size
+Huntingdon,E14000757,75,70,81.7,1,2.0,14,16.5,"1,738",2.3,67,0.89,587,609,Cells F299 G299 have a small sample size
+Ipswich,E14000761,71,55,85.0,[c],[c],9,13.9,"3,539",5.0,70,0.99,537,555,Cells H300 I300 have a small sample size
+Luton North,E14000800,60,46,67.4,5,10.0,17,24.9,"3,098",5.2,32,0.54,587,574,Cells F301 G301 have a small sample size
+Luton South,E14000801,78,55,69.0,2,3.1,22,28.8,"5,053",6.5,76,0.98,575,699,Cells F302 G302 have a small sample size
+Maldon,E14000806,54,39,72.8,[c],[c],13,25.9,"1,207",2.2,37,0.67,725,584,Cells H303 I303 have a small sample size
+Mid Bedfordshire,E14000813,73,50,83.1,[c],[c],9,15.5,"1,364",1.9,51,0.70,715,661,
+Mid Norfolk,E14000816,62,50,72.4,[c],[c],17,26.9,"1,381",2.2,43,0.68,552,525,
+North East Bedfordshire,E14000841,73,66,76.0,2,2.3,19,22.3,"1,702",2.3,42,0.57,711,603,Cells F306 G306 have a small sample size
+North East Cambridgeshire,E14000842,71,65,76.8,[c],[c],17,21.6,"2,620",3.7,51,0.71,551,479,Cells H307 I307 have a small sample size
+North East Hertfordshire,E14000845,61,54,83.6,[c],[c],10,15.6,"1,438",2.4,50,0.82,767,625,Cells H308 I308 have a small sample size
+North Norfolk,E14000848,46,38,80.4,[c],[c],8,19.0,"1,224",2.7,34,0.75,560,510,Cells H309 I309 have a small sample size
+North West Cambridgeshire,E14000855,83,64,84.5,2,2.9,9,13.0,"2,524",3.1,71,0.86,593,568,Cells F310 G310 have a small sample size
+North West Norfolk,E14000859,54,40,75.6,[c],[c],10,21.2,"1,589",2.9,53,0.98,558,558,Cells H311 I311 have a small sample size
+Norwich North,E14000863,56,51,80.5,3,4.8,9,15.3,"1,904",3.4,45,0.81,532,598,Cells F312 G312 H312 I312 have a small sample size
+Norwich South,E14000864,72,64,83.6,[c],[c],12,15.7,"2,560",3.5,76,1.05,616,611,Cells H313 I313 have a small sample size
+Peterborough,E14000878,76,64,76.9,4,5.7,15,18.4,"4,844",6.4,79,1.03,521,575,Cells F314 G314 have a small sample size
+Rayleigh and Wickford,E14000888,61,57,88.4,[c],[c],7,11.6,"1,215",2.0,31,0.50,702,603,Cells H315 I315 have a small sample size
+Rochford and Southend East,E14000899,66,60,78.7,1,1.8,14,19.8,"3,618",5.5,54,0.82,683,583,Cells F316 G316 have a small sample size
+Saffron Walden,E14000910,71,58,79.2,[c],[c],14,20.8,"1,325",1.9,72,1.01,742,613,
+South Basildon and East Thurrock,E14000933,62,61,83.1,3,4.8,9,12.6,"2,404",3.9,40,0.64,631,654,Cells F318 G318 have a small sample size
+South Cambridgeshire,E14000934,72,55,80.5,2,3.5,11,16.7,"1,226",1.7,84,1.17,799,746,Cells F319 G319 have a small sample size
+South East Cambridgeshire,E14000937,74,64,82.3,2,2.7,11,15.3,"1,435",1.9,70,0.95,688,589,Cells F320 G320 have a small sample size
+South Norfolk,E14000941,66,53,82.5,[c],[c],11,17.5,"1,406",2.1,51,0.77,625,593,
+South Suffolk,E14000946,55,45,73.8,[c],[c],13,23.7,"1,305",2.4,40,0.73,575,537,Cells H322 I322 have a small sample size
+South West Bedfordshire,E14000949,72,66,80.4,2,3.4,13,16.6,"1,925",2.7,51,0.71,634,552,Cells F323 G323 have a small sample size
+South West Hertfordshire,E14000951,68,64,80.1,[c],[c],14,18.2,"1,342",2.0,57,0.84,728,669,Cells H324 I324 have a small sample size
+South West Norfolk,E14000952,63,55,76.1,3,5.9,12,18.7,"1,696",2.7,43,0.68,541,544,Cells F325 G325 H325 I325 have a small sample size
+Southend West,E14000957,56,36,70.9,[low],1.0,14,28.3,"1,836",3.3,36,0.65,662,540,Cells F326 G326 have a small sample size
+St Albans,E14000960,65,64,85.3,[c],[c],10,14.2,"1,554",2.4,57,0.88,882,654,Cells H327 I327 have a small sample size
+Stevenage,E14000968,62,58,82.0,3,4.4,10,14.1,"1,915",3.1,56,0.89,612,696,Cells F328 G328 H328 I328 have a small sample size
+Suffolk Coastal,E14000981,57,44,83.5,[c],[c],7,14.0,"1,205",2.1,55,0.98,538,547,Cells H329 I329 have a small sample size
+Thurrock,E14000995,85,62,78.7,5,8.0,11,14.2,"3,600",4.2,71,0.84,664,608,Cells F330 G330 have a small sample size
+Watford,E14001021,78,57,71.8,2,3.1,20,25.8,"2,617",3.4,94,1.21,622,654,Cells F331 G331 have a small sample size
+Waveney,E14001022,60,49,80.3,[c],[c],11,19.7,"2,506",4.2,42,0.71,537,551,Cells H332 I332 have a small sample size
+Welwyn Hatfield,E14001027,78,67,75.8,[c],[c],18,21.7,"1,968",2.5,99,1.27,660,682,Cells H333 I333 have a small sample size
+West Suffolk,E14001034,71,69,80.7,[c],[c],14,17.2,"1,687",2.4,53,0.75,543,522,Cells H334 I334 have a small sample size
+Witham,E14001045,56,48,76.4,2,3.8,12,20.3,"1,339",2.4,44,0.79,618,554,Cells F335 G335 H335 I335 have a small sample size
+London,E12000007,"6,056","4,838",76.2,224,4.4,"1,244",20.2,"295,021",4.9,"6,165",1.02,728,767,
+Barking,E14000540,91,68,71.5,3,4.5,24,25.1,"6,099",6.7,48,0.53,632,652,Cells F337 G337 have a small sample size
+Battersea,E14000549,90,69,88.0,3,3.6,7,8.6,"2,883",3.2,57,0.63,813,671,Cells F338 G338 H338 I338 have a small sample size
+Beckenham,E14000551,57,48,82.4,[c],[c],10,17.3,"1,249",2.2,28,0.49,790,710,Cells H339 I339 have a small sample size
+Bermondsey and Old Southwark,E14000553,115,80,71.7,4,4.9,26,24.4,"5,380",4.7,228,1.98,790,843,Cells F340 G340 have a small sample size
+Bethnal Green and Bow,E14000555,116,86,70.4,8,8.3,28,23.2,"6,327",5.5,105,0.90,698,821,Cells F341 G341 have a small sample size
+Bexleyheath and Crayford,E14000558,60,43,77.5,3,6.4,9,17.6,"1,784",3.0,34,0.56,696,584,Cells F342 G342 H342 I342 have a small sample size
+Brent Central,E14000591,99,63,74.9,[c],[c],18,21.3,"8,188",8.3,70,0.71,606,673,Cells H343 I343 have a small sample size
+Brent North,E14000592,86,74,68.2,7,8.7,27,25.5,"4,426",5.1,62,0.72,619,631,Cells F344 G344 H344 I344 have a small sample size
+Brentford and Isleworth,E14000593,90,88,72.2,[c],[c],32,26.8,"4,497",5.0,115,1.28,756,751,
+Bromley and Chislehurst,E14000604,61,57,77.4,[c],[c],15,21.2,"2,040",3.4,45,0.73,702,673,Cells H346 I346 have a small sample size
+Camberwell and Peckham,E14000615,92,76,76.9,5,6.4,17,17.9,"5,781",6.3,58,0.63,689,628,Cells F347 G347 H347 I347 have a small sample size
+Carshalton and Wallington,E14000621,66,66,80.2,4,5.1,12,15.4,"2,180",3.3,41,0.63,676,582,Cells F348 G348 have a small sample size
+Chelsea and Fulham,E14000629,74,63,79.8,2,3.2,14,18.3,"2,542",3.4,77,1.04,881,634,Cells F349 G349 have a small sample size
+Chingford and Woodford Green,E14000634,59,48,78.6,4,6.9,9,15.3,"2,410",4.1,31,0.54,770,489,Cells F350 G350 H350 I350 have a small sample size
+Chipping Barnet,E14000636,75,76,74.2,8,9.8,17,17.4,"2,824",3.8,51,0.68,780,611,Cells F351 G351 H351 I351 have a small sample size
+Cities of London and Westminster,E14000639,103,75,76.4,2,2.3,21,21.8,"2,999",2.9,"1,407",13.72,875,973,Cells F352 G352 have a small sample size
+Croydon Central,E14000654,79,93,79.6,3,3.3,20,17.6,"4,667",5.9,57,0.73,728,741,Cells F353 G353 H353 I353 have a small sample size
+Croydon North,E14000655,97,46,63.6,[c],[c],24,35.5,"7,097",7.3,47,0.48,600,606,
+Croydon South,E14000656,73,68,81.9,3,3.6,11,14.7,"2,682",3.7,38,0.52,780,680,Cells F355 G355 H355 I355 have a small sample size
+Dagenham and Rainham,E14000657,71,61,78.9,1,2.4,14,19.0,"4,105",5.8,40,0.56,671,588,Cells F356 G356 H356 I356 have a small sample size
+Dulwich and West Norwood,E14000673,78,82,79.3,[c],[c],18,17.5,"4,320",5.5,51,0.65,737,763,Cells H357 I357 have a small sample size
+Ealing Central and Acton,E14000674,84,97,74.4,4,4.4,28,22.1,"4,787",5.7,82,0.98,744,609,Cells F358 G358 H358 I358 have a small sample size
+Ealing North,E14000675,74,51,75.1,4,7.6,12,18.5,"4,902",6.6,42,0.56,590,691,Cells F359 G359 H359 I359 have a small sample size
+"Ealing, Southall",E14000676,62,26,75.4,[c],[c],7,18.7,"4,082",6.6,34,0.55,639,573,CellsD360 E360 H360 I360 have a small sample size
+East Ham,E14000679,112,55,63.1,5,8.3,27,31.2,"7,433",6.6,50,0.45,624,678,Cells F361 G361 H361 I361 have a small sample size
+Edmonton,E14000687,77,55,64.3,[c],[c],28,33.9,"5,985",7.8,39,0.51,648,640,Cells H362 I362 have a small sample size
+Eltham,E14000690,61,48,75.1,2,3.8,13,21.8,"2,778",4.6,24,0.39,709,722,Cells F363 G363 H363 I363 have a small sample size
+Enfield North,E14000691,69,49,73.7,3,6.5,13,21.0,"3,780",5.5,48,0.70,713,600,Cells F364 G364 H364 I364 have a small sample size
+"Enfield, Southgate",E14000692,67,56,73.8,6,10.3,13,17.4,"3,040",4.5,36,0.53,626,544,Cells F365 G365 H365 I365 have a small sample size
+Erith and Thamesmead,E14000696,80,61,73.1,2,3.2,20,24.4,"4,227",5.3,36,0.45,676,601,Cells F366 G366 have a small sample size
+Feltham and Heston,E14000701,87,50,76.0,5,8.4,11,16.9,"5,208",6.0,58,0.67,597,675,Cells F367 G367 H367 I367 have a small sample size
+Finchley and Golders Green,E14000703,86,52,67.5,2,4.2,22,30.2,"3,856",4.5,63,0.73,673,515,Cells F368 G368 H368 I368 have a small sample size
+Greenwich and Woolwich,E14000718,95,83,81.2,2,2.3,17,16.9,"4,853",5.1,65,0.68,765,630,Cells F369 G369 H369 I369 have a small sample size
+Hackney North and Stoke Newington,E14000720,99,74,71.4,11,12.9,18,17.9,"5,752",5.8,47,0.48,661,559,Cells F370 G370 H370 I370 have a small sample size
+Hackney South and Shoreditch,E14000721,102,88,74.7,7,7.3,23,20.0,"5,796",5.7,128,1.25,734,785,Cells F371 G371 H371 I371 have a small sample size
+Hammersmith,E14000726,83,59,73.0,1,1.3,21,26.1,"4,743",5.7,117,1.40,761,797,Cells F372 G372 have a small sample size
+Hampstead and Kilburn,E14000727,105,83,68.3,10,10.5,26,22.9,"4,083",3.9,68,0.65,797,674,Cells F373 G373 have a small sample size
+Harrow East,E14000731,67,39,72.6,2,4.8,12,23.7,"2,760",4.1,32,0.48,761,566,Cells F374 G374 H374 I374 have a small sample size
+Harrow West,E14000732,73,61,78.4,5,7.2,12,15.4,"3,000",4.1,44,0.60,714,620,Cells F375 G375 H375 I375 have a small sample size
+Hayes and Harlington,E14000737,85,62,65.8,5,7.8,26,28.4,"4,436",5.2,93,1.10,590,662,Cells F376 G376 have a small sample size
+Hendon,E14000741,94,62,70.2,[c],[c],24,27.0,"4,726",5.0,62,0.66,632,635,
+Holborn and St Pancras,E14000750,122,72,68.5,5,6.2,26,26.7,"4,956",4.1,364,2.98,746,786,Cells F378 G378 have a small sample size
+Hornchurch and Upminster,E14000751,68,53,83.2,[c],[c],9,15.5,"2,309",3.4,38,0.56,720,600,Cells H379 I379 have a small sample size
+Hornsey and Wood Green,E14000752,86,87,82.1,3,3.3,15,15.0,"4,535",5.3,45,0.53,783,703,Cells F380 G380 have a small sample size
+Ilford North,E14000759,72,65,73.6,2,3.6,20,23.5,"2,898",4.0,32,0.44,723,605,Cells F381 G381 have a small sample size
+Ilford South,E14000760,96,63,67.9,5,7.7,24,26.4,"5,835",6.1,47,0.49,648,575,Cells F382 G382 have a small sample size
+Islington North,E14000763,89,74,77.2,3,4.4,17,19.1,"4,345",4.9,47,0.53,837,695,Cells F383 G383 H383 I383 have a small sample size
+Islington South and Finsbury,E14000764,98,74,77.9,[c],[c],18,19.8,"4,163",4.2,221,2.24,762,843,Cells H384 I384 have a small sample size
+Kensington,E14000768,77,52,67.5,2,3.8,22,29.7,"2,888",3.8,117,1.53,934,651,Cells F385 G385 have a small sample size
+Kingston and Surbiton,E14000770,86,75,83.9,[c],[c],13,14.7,"2,383",2.8,66,0.77,742,673,
+Lewisham East,E14000787,75,57,78.9,4,6.4,11,15.5,"4,338",5.8,31,0.42,673,666,Cells F387 G387 H387 I387 have a small sample size
+Lewisham West and Penge,E14000788,79,65,82.5,[c],[c],11,14.9,"4,287",5.4,30,0.39,763,#,Cells H388 I388 have a small sample size
+"Lewisham, Deptford",E14000789,95,101,86.1,[c],[c],15,12.9,"5,494",5.8,43,0.46,765,659,Cells H389 I389 have a small sample size
+Leyton and Wanstead,E14000790,76,52,68.3,2,4.5,20,28.1,"4,052",5.4,30,0.40,767,725,Cells F390 G390 have a small sample size
+Mitcham and Morden,E14000823,71,55,84.1,[c],[c],10,15.2,"4,075",5.7,27,0.38,598,605,Cells H391 I391 have a small sample size
+Old Bexley and Sidcup,E14000869,55,59,89.9,[c],[c],6,9.3,"1,183",2.1,30,0.55,764,654,Cells H392 I392 have a small sample size
+Orpington,E14000872,54,46,86.0,[c],[c],5,10.1,"1,331",2.5,35,0.66,833,679,Cells H393 I393 have a small sample size
+Poplar and Limehouse,E14000882,127,95,75.1,[c],[c],29,23.6,"6,609",5.2,206,1.62,894,997,
+Putney,E14000887,70,79,90.1,[c],[c],7,8.4,"2,569",3.7,41,0.59,878,672,Cells H395 I395 have a small sample size
+Richmond Park,E14000896,82,63,73.7,2,3.8,19,23.3,"1,809",2.2,66,0.80,835,697,Cells F396 G396 have a small sample size
+Romford,E14000900,67,68,85.4,1,2.1,10,13.1,"2,571",3.8,51,0.75,705,595,Cells F397 G397 H397 I397 have a small sample size
+"Ruislip, Northwood and Pinner",E14000906,58,56,74.2,[c],[c],17,24.2,"1,472",2.6,40,0.70,727,678,Cells H398 I398 have a small sample size
+Streatham,E14000978,89,80,85.7,[c],[c],10,11.1,"4,707",5.3,33,0.37,745,527,Cells H399 I399 have a small sample size
+Sutton and Cheam,E14000984,65,40,77.5,2,4.2,10,19.1,"1,641",2.5,54,0.83,700,602,Cells F400 G400 have a small sample size
+Tooting,E14000998,78,63,89.5,[c],[c],7,9.7,"2,700",3.5,51,0.66,836,652,Cells H401 I401 have a small sample size
+Tottenham,E14001002,98,70,73.4,2,2.9,23,24.3,"8,484",8.6,47,0.48,631,592,Cells F402 G402 have a small sample size
+Twickenham,E14001005,74,66,78.1,2,3.1,16,19.3,"1,887",2.5,55,0.73,784,728,Cells F403 G403 have a small sample size
+Uxbridge and South Ruislip,E14001007,75,54,76.0,3,5.8,14,19.2,"2,566",3.4,79,1.05,728,671,Cells F404 G404 H404 I404 have a small sample size
+Vauxhall,E14001008,96,80,85.6,[c],[c],11,11.6,"4,887",5.1,107,1.12,731,684,Cells H405 I405 have a small sample size
+Walthamstow,E14001013,82,64,69.2,4,6.3,24,26.2,"5,066",6.2,36,0.44,680,617,Cells F406 G406 have a small sample size
+West Ham,E14001032,137,140,82.7,6,4.1,23,13.7,"8,765",6.4,95,0.69,762,736,Cells F407 G407 H407 I407 have a small sample size
+Westminster North,E14001036,95,63,69.5,2,3.3,24,27.9,"3,902",4.1,72,0.76,797,674,Cells F408 G408 have a small sample size
+Wimbledon,E14001040,65,68,83.5,[c],[c],13,16.2,"1,612",2.5,65,1.00,844,683,
+South East,E12000008,"5,756","4,607",78.1,148,3.1,"1,084",19.3,"168,819",2.9,"4,905",0.85,660,635,
+Aldershot,E14000530,68,51,75.9,[c],[c],14,22.0,"1,960",2.9,61,0.90,670,678,Cells H411 I411 have a small sample size
+Arundel and South Downs,E14000534,56,58,90.7,[c],[c],5,7.7,"1,174",2.1,45,0.80,603,551,Cells H412 I412 have a small sample size
+Ashford,E14000536,75,58,77.0,2,3.3,15,20.4,"2,504",3.3,70,0.94,600,575,Cells F413 G413 H413 I413 have a small sample size
+Aylesbury,E14000538,80,78,88.0,[c],[c],8,9.4,"2,280",2.8,67,0.83,606,615,Cells H414 I414 have a small sample size
+Banbury,E14000539,79,62,77.9,[c],[c],16,20.2,"1,853",2.4,77,0.98,652,595,
+Basingstoke,E14000545,75,59,79.7,[c],[c],14,18.6,"2,295",3.1,78,1.04,695,700,Cells H416 I416 have a small sample size
+Beaconsfield,E14000550,60,48,70.5,2,5.0,16,25.6,"1,441",2.4,67,1.13,746,741,Cells F417 G417 have a small sample size
+Bexhill and Battle,E14000557,58,53,75.7,3,5.5,12,19.8,"1,823",3.1,41,0.71,592,528,Cells F418 G418 H418 I418 have a small sample size
+Bognor Regis and Littlehampton,E14000576,62,55,82.9,3,4.9,8,13.0,"2,306",3.7,37,0.61,545,497,Cells F419 G419 H419 I419 have a small sample size
+Bracknell,E14000586,72,62,78.4,3,4.1,14,18.2,"1,600",2.2,60,0.83,766,754,Cells F420 G420 have a small sample size
+"Brighton, Kemptown",E14000597,65,51,66.8,3,5.5,22,29.2,"2,941",4.5,44,0.68,614,615,Cells F421 G421 have a small sample size
+"Brighton, Pavilion",E14000598,86,54,80.1,2,3.5,11,17.2,"2,961",3.4,82,0.96,618,610,Cells F422 G422 H422 I422 have a small sample size
+Buckingham,E14000608,65,58,85.2,1,1.6,9,13.3,"1,284",2.0,47,0.72,770,612,Cells F423 G423 H423 I423 have a small sample size
+Canterbury,E14000619,80,52,64.7,[c],[c],27,35.3,"2,239",2.8,69,0.86,588,544,
+Chatham and Aylesford,E14000626,65,51,76.7,3,5.3,13,20.5,"2,575",4.0,43,0.66,632,576,Cells F425 G425 have a small sample size
+Chesham and Amersham,E14000631,56,47,80.4,[c],[c],10,18.4,"1,193",2.1,42,0.76,737,701,
+Chichester,E14000633,63,48,63.5,[c],[c],23,35.0,"1,935",3.1,70,1.11,641,577,
+Crawley,E14000652,72,59,79.5,[c],[c],14,19.2,"3,125",4.3,90,1.25,585,671,Cells H428 I428 have a small sample size
+Dartford,E14000659,75,62,81.5,[c],[c],12,16.9,"2,221",3.0,76,1.02,714,714,Cells H429 I429 have a small sample size
+Dover,E14000670,61,48,72.9,[c],[c],15,25.3,"2,468",4.0,36,0.59,646,599,
+East Hampshire,E14000680,60,53,78.4,[c],[c],11,18.3,"1,204",2.0,43,0.73,634,540,Cells H431 I431 have a small sample size
+East Surrey,E14000681,69,63,77.9,[c],[c],15,19.5,"1,534",2.2,49,0.71,729,604,Cells H432 I432 have a small sample size
+East Worthing and Shoreham,E14000682,59,49,76.1,[c],[c],13,22.0,"1,740",2.9,39,0.66,581,517,Cells H433 I433 have a small sample size
+Eastbourne,E14000684,63,56,75.8,1,2.2,14,22.2,"2,962",4.7,50,0.79,564,577,Cells F434 G434 H434 I434 have a small sample size
+Eastleigh,E14000685,71,57,86.3,[c],[c],8,13.2,"1,569",2.2,57,0.81,630,648,Cells H435 I435 have a small sample size
+Epsom and Ewell,E14000694,67,55,78.9,4,7.4,10,15.1,"1,241",1.9,47,0.71,687,576,Cells F436 G436 H436 I436 have a small sample size
+Esher and Walton,E14000697,68,56,78.6,2,4.2,12,17.9,"1,412",2.1,48,0.71,814,622,Cells F437 G437 H437 I437 have a small sample size
+Fareham,E14000699,62,56,85.8,[c],[c],8,12.8,"1,183",1.9,53,0.86,715,608,Cells H438 I438 have a small sample size
+Faversham and Mid Kent,E14000700,60,52,81.4,[c],[c],10,17.2,"1,704",2.8,43,0.71,654,595,Cells H439 I439 have a small sample size
+Folkestone and Hythe,E14000704,69,57,80.6,[c],[c],11,16.7,"2,834",4.1,48,0.69,608,554,Cells H440 I440 have a small sample size
+Gillingham and Rainham,E14000711,64,41,78.0,2,3.7,10,18.8,"2,528",4.0,36,0.57,596,575,Cells F441 G441 H441 I441 have a small sample size
+Gosport,E14000713,59,41,68.2,[c],[c],18,29.5,"1,870",3.2,29,0.49,608,625,
+Gravesham,E14000715,65,58,81.6,[c],[c],11,15.9,"2,741",4.2,38,0.58,615,611,Cells H443 I443 have a small sample size
+Guildford,E14000719,78,47,80.7,[c],[c],10,18.0,"1,401",1.8,86,1.10,787,737,Cells H444 I444 have a small sample size
+Hastings and Rye,E14000735,66,49,77.1,3,5.2,12,18.5,"3,629",5.5,46,0.70,542,498,Cells F445 G445 H445 I445 have a small sample size
+Havant,E14000736,57,40,66.0,[c],[c],17,30.6,"2,113",3.7,35,0.62,560,620,Cells H446 I446 have a small sample size
+Henley,E14000742,59,47,69.4,2,4.0,17,27.5,"1,074",1.8,55,0.93,737,640,Cells F447 G447 have a small sample size
+Horsham,E14000753,71,54,87.0,[c],[c],7,11.6,"1,385",1.9,52,0.73,743,588,Cells H448 I448 have a small sample size
+Hove,E14000755,71,68,78.2,2,2.8,16,19.5,"2,750",3.9,51,0.73,625,575,Cells F449 G449 have a small sample size
+Isle of Wight,E14000762,80,55,65.1,3,4.7,25,31.6,"2,886",3.6,61,0.76,569,516,Cells F450 G450 have a small sample size
+Lewes,E14000786,53,45,70.7,3,6.0,14,24.4,"1,621",3.1,50,0.94,667,602,Cells F451 G451 H451 I451 have a small sample size
+Maidenhead,E14000803,65,62,83.2,1,1.7,11,15.3,"1,441",2.2,63,0.97,739,681,Cells F452 G452 have a small sample size
+Maidstone and The Weald,E14000804,68,62,82.5,3,5.3,10,12.9,"2,202",3.2,62,0.90,599,591,Cells F453 G453 H453 I453 have a small sample size
+Meon Valley,E14000811,56,38,75.6,[c],[c],11,22.9,"1,276",2.3,61,1.09,666,575,Cells H454 I454 have a small sample size
+Mid Sussex,E14000817,70,59,81.9,[c],[c],13,18.1,"1,207",1.7,53,0.76,657,587,Cells H455 I455 have a small sample size
+Milton Keynes North,E14000821,84,71,84.0,[c],[c],13,15.5,"3,292",3.9,101,1.21,684,706,
+Milton Keynes South,E14000822,85,79,80.1,2,2.6,17,17.7,"3,210",3.8,95,1.13,632,603,Cells F457 G457 have a small sample size
+Mole Valley,E14000824,57,50,73.2,[c],[c],16,25.8,"1,074",1.9,58,1.02,721,692,Cells H458 I458 have a small sample size
+New Forest East,E14000827,54,51,74.9,3,6.3,12,20.1,"1,072",2.0,41,0.76,660,661,Cells F459 G459 H459 I459 have a small sample size
+New Forest West,E14000828,45,32,81.5,[c],[c],7,18.5,958,2.1,38,0.86,587,577,Cells H460 I460 have a small sample size
+Newbury,E14000830,68,59,79.7,2,3.5,12,17.3,"1,583",2.3,77,1.13,716,787,Cells F461 G461 have a small sample size
+North East Hampshire,E14000844,62,57,86.3,2,4.0,6,10.0,998,1.6,42,0.68,753,734,Cells F462 G462 H462 I462 have a small sample size
+North Thanet,E14000852,57,51,79.5,4,7.0,9,14.2,"2,724",4.8,38,0.67,571,498,Cells F463 G463 H463 I463 have a small sample size
+North West Hampshire,E14000857,66,49,79.6,2,4.2,10,16.8,"1,413",2.1,52,0.78,671,589,Cells F464 G464 H464 I464 have a small sample size
+Oxford East,E14000873,85,61,83.6,[c],[c],11,14.9,"2,538",3.0,108,1.26,646,687,Cells H465 I465 have a small sample size
+Oxford West and Abingdon,E14000874,68,61,79.0,[c],[c],15,20.0,"1,259",1.8,62,0.90,669,689,Cells H466 I466 have a small sample size
+Portsmouth North,E14000883,62,54,78.7,1,2.1,13,19.6,"2,468",4.0,69,1.11,577,650,Cells F467 G467 have a small sample size
+Portsmouth South,E14000884,82,56,70.1,2,3.0,21,27.7,"3,947",4.8,56,0.68,604,570,Cells F468 G468 have a small sample size
+Reading East,E14000889,77,59,82.1,2,2.6,11,15.7,"2,430",3.2,105,1.37,708,686,Cells F469 G469 have a small sample size
+Reading West,E14000890,64,54,76.3,1,2.3,15,21.9,"2,757",4.3,64,1.00,616,634,Cells F470 G470 have a small sample size
+Reigate,E14000893,66,48,82.1,[c],[c],10,17.9,"1,409",2.1,70,1.06,728,617,Cells H471 I471 have a small sample size
+Rochester and Strood,E14000898,72,77,86.3,3,3.2,9,10.7,"2,597",3.6,63,0.87,648,577,Cells F472 G472 have a small sample size
+Romsey and Southampton North,E14000901,57,50,75.3,2,3.8,14,21.6,"1,150",2.0,43,0.76,653,667,Cells F473 G473 have a small sample size
+Runnymede and Weybridge,E14000907,73,57,77.8,[c],[c],16,22.2,"1,632",2.2,82,1.13,756,733,Cells H474 I474 have a small sample size
+Sevenoaks,E14000918,57,44,73.1,[c],[c],14,24.4,"1,202",2.1,51,0.90,691,585,Cells H475 I475 have a small sample size
+Sittingbourne and Sheppey,E14000927,73,55,79.4,2,4.2,11,17.0,"3,020",4.1,50,0.68,580,528,Cells F476 G476 H476 I476 have a small sample size
+Slough,E14000930,90,72,74.4,5,6.2,19,20.5,"4,844",5.4,81,0.91,652,736,Cells F477 G477 have a small sample size
+South Thanet,E14000948,58,42,72.4,3,6.8,12,22.0,"3,315",5.7,41,0.71,552,548,Cells F478 G478 H478 I478 have a small sample size
+South West Surrey,E14000953,62,54,77.8,[c],[c],13,20.8,"1,139",1.8,55,0.89,706,549,Cells H479 I479 have a small sample size
+"Southampton, Itchen",E14000955,73,52,75.1,2,3.9,14,21.7,"3,104",4.2,58,0.80,619,660,Cells F480 G480 have a small sample size
+"Southampton, Test",E14000956,77,65,77.4,4,5.5,15,18.0,"3,512",4.6,67,0.87,593,632,Cells F481 G481 have a small sample size
+Spelthorne,E14000959,61,53,79.9,[c],[c],13,20.1,"1,888",3.1,43,0.70,738,632,
+Surrey Heath,E14000983,67,61,77.3,[c],[c],15,20.3,"1,369",2.0,64,0.95,772,680,Cells H483 I483 have a small sample size
+Tonbridge and Malling,E14000997,65,54,73.3,[c],[c],18,26.7,"1,346",2.1,59,0.90,730,589,
+Tunbridge Wells,E14001004,66,53,69.7,5,9.2,16,22.5,"1,556",2.4,65,0.99,710,575,Cells F485 G485 H485 I485 have a small sample size
+Wantage,E14001015,77,61,87.7,[c],[c],8,11.5,"1,587",2.1,66,0.86,749,728,Cells H486 I486 have a small sample size
+Wealden,E14001023,64,47,73.7,4,7.7,11,20.0,"1,439",2.2,43,0.67,613,531,Cells F487 G487 H487 I487 have a small sample size
+Winchester,E14001041,61,57,75.7,[c],[c],17,23.9,"1,124",1.8,70,1.14,707,657,
+Windsor,E14001042,67,46,79.0,2,4.4,10,17.6,"1,459",2.2,70,1.04,714,735,Cells F489 G489 have a small sample size
+Witney,E14001046,67,62,86.3,[c],[c],8,12.3,"1,357",2.0,62,0.93,629,590,Cells H490 I490 have a small sample size
+Woking,E14001047,65,62,83.6,1,2.2,10,14.4,"1,558",2.4,53,0.81,692,657,Cells F491 G491 H491 I491 have a small sample size
+Wokingham,E14001048,72,59,85.0,1,2.1,9,13.2,"1,169",1.6,66,0.92,704,709,Cells F492 G492 have a small sample size
+Worthing West,E14001055,55,45,74.5,[c],[c],13,22.4,"1,813",3.3,53,0.96,583,564,Cells H493 I493 have a small sample size
+Wycombe,E14001056,69,54,82.0,3,4.5,9,13.9,"2,826",4.1,64,0.93,622,666,Cells F494 G494 H494 I494 have a small sample size
+South West,E12000009,"3,466","2,773",78.3,74,2.6,653,19.5,"90,774",2.6,"3,025",0.87,577,573,
+Bath,E14000547,69,45,72.9,3,6.2,13,22.2,"1,332",1.9,69,0.99,683,580,Cells F496 G496 have a small sample size
+Bournemouth East,E14000584,67,60,74.6,3,5.4,16,21.0,"2,843",4.2,48,0.72,583,565,Cells F497 G497 have a small sample size
+Bournemouth West,E14000585,69,48,79.8,[c],[c],11,19.3,"2,808",4.1,69,1.00,476,572,
+Bridgwater and West Somerset,E14000595,66,53,73.6,3,5.0,15,22.2,"1,846",2.8,50,0.75,540,523,Cells F499 G499 have a small sample size
+Bristol East,E14000599,67,50,81.0,2,4.1,9,15.5,"2,530",3.8,36,0.54,618,521,Cells F500 G500 H500 I500 have a small sample size
+Bristol North West,E14000600,66,56,80.1,[c],[c],13,19.2,"2,098",3.2,60,0.91,592,522,
+Bristol South,E14000601,74,81,78.9,2,2.1,20,19.4,"2,787",3.8,44,0.59,610,539,Cells F502 G502 have a small sample size
+Bristol West,E14000602,113,71,75.2,3,4.1,20,21.5,"3,977",3.5,184,1.63,660,680,Cells F503 G503 have a small sample size
+Camborne and Redruth,E14000616,57,57,85.5,[c],[c],9,13.8,"1,820",3.2,45,0.80,518,523,Cells H504 I504 have a small sample size
+Central Devon,E14000623,54,45,77.3,[c],[c],11,21.2,"1,113",2.1,40,0.74,550,533,
+Cheltenham,E14000630,66,59,84.0,[c],[c],10,15.0,"1,766",2.7,63,0.95,658,630,Cells H506 I506 have a small sample size
+Chippenham,E14000635,59,52,80.4,[c],[c],11,18.8,"1,401",2.4,56,0.95,568,635,
+Christchurch,E14000638,45,38,75.5,4,8.8,8,16.5,962,2.1,44,0.98,679,526,Cells F508 G508 H508 I508 have a small sample size
+Devizes,E14000665,64,55,81.7,1,2.6,10,15.9,"1,242",1.9,44,0.69,588,552,Cells F509 G509 H509 I509 have a small sample size
+East Devon,E14000678,60,51,76.8,1,2.3,13,21.2,"1,125",1.9,65,1.07,601,580,Cells F510 G510 have a small sample size
+Exeter,E14000698,82,55,68.9,3,4.6,22,27.8,"1,710",2.1,85,1.03,594,600,Cells F511 G511 have a small sample size
+Filton and Bradley Stoke,E14000702,70,61,84.1,2,2.8,10,13.5,"1,336",1.9,100,1.42,659,672,Cells F512 G512 have a small sample size
+Forest of Dean,E14000705,54,38,70.6,2,4.7,13,26.1,"1,265",2.4,32,0.60,594,513,Cells F513 G513 have a small sample size
+Gloucester,E14000712,76,59,76.4,2,3.5,15,20.7,"2,685",3.5,73,0.96,529,546,Cells F514 G514 have a small sample size
+Kingswood,E14000774,57,48,85.6,[c],[c],7,13.3,"1,104",1.9,31,0.55,576,601,
+Mid Dorset and North Poole,E14000815,47,41,82.3,[c],[c],8,17.7,969,2.1,39,0.84,627,575,
+Newton Abbot,E14000835,54,44,78.3,[c],[c],11,21.0,"1,194",2.2,43,0.80,529,507,
+North Cornwall,E14000837,54,46,81.9,[c],[c],8,15.8,"1,510",2.8,47,0.89,498,450,Cells H518 I518 have a small sample size
+North Devon,E14000838,56,47,81.3,[c],[c],9,16.8,"1,476",2.6,56,1.00,515,527,Cells H519 I519 have a small sample size
+North Dorset,E14000839,56,43,78.6,[c],[c],11,21.4,"1,152",2.1,42,0.75,575,535,
+North East Somerset,E14000846,57,47,76.3,1,2.2,13,21.9,"1,078",1.9,42,0.73,553,559,Cells F521 G521 have a small sample size
+North Somerset,E14000850,58,54,78.9,2,3.7,12,18.3,905,1.6,52,0.90,695,579,Cells F522 G522 have a small sample size
+North Swindon,E14000851,70,60,75.1,4,5.5,16,20.3,"2,273",3.2,58,0.82,581,591,Cells F523 G523 have a small sample size
+North Wiltshire,E14000860,57,52,82.4,1,2.7,9,15.2,"1,110",1.9,45,0.78,665,588,Cells F524 G524 H524 I524 have a small sample size
+"Plymouth, Moor View",E14000879,56,44,68.8,[c],[c],18,29.7,"1,771",3.2,49,0.88,502,588,
+"Plymouth, Sutton and Devonport",E14000880,79,60,75.7,2,3.6,17,21.5,"3,512",4.4,67,0.85,486,537,Cells F526 G526 have a small sample size
+Poole,E14000881,59,55,80.4,1,1.8,12,18.0,"1,829",3.1,63,1.06,601,560,Cells F527 G527 have a small sample size
+Salisbury,E14000912,58,47,76.9,[c],[c],11,19.8,"1,400",2.4,62,1.07,623,555,
+Somerton and Frome,E14000932,62,46,75.3,[c],[c],13,22.6,"1,469",2.4,48,0.79,580,538,
+South Dorset,E14000936,54,36,70.9,[c],[c],12,26.4,"1,789",3.3,39,0.72,550,554,
+South East Cornwall,E14000938,51,41,73.9,[c],[c],13,24.0,"1,329",2.6,38,0.75,528,490,
+South Swindon,E14000947,70,50,73.8,3,5.1,14,22.0,"2,528",3.6,68,0.98,590,612,Cells F532 G532 have a small sample size
+South West Devon,E14000950,52,38,76.3,1,3.2,10,21.0,867,1.7,42,0.81,624,553,Cells F533 G533 have a small sample size
+South West Wiltshire,E14000954,61,49,86.7,[c],[c],7,13.3,"1,441",2.4,52,0.85,585,536,Cells H534 I534 have a small sample size
+St Austell and Newquay,E14000961,63,52,80.0,[c],[c],12,19.0,"2,057",3.3,51,0.80,501,498,Cells H535 I535 have a small sample size
+St Ives,E14000964,49,30,66.3,[c],[c],13,31.6,"1,396",2.8,39,0.78,479,484,Cells H536 I536 have a small sample size
+Stroud,E14000980,65,59,86.1,1,1.7,8,12.3,"1,107",1.7,50,0.78,557,564,Cells F537 G537 H537 I537 have a small sample size
+Taunton Deane,E14000988,70,56,78.2,[c],[c],14,20.5,"1,623",2.3,64,0.91,560,548,
+Tewkesbury,E14000990,66,59,85.8,[c],[c],8,12.9,"1,284",1.9,64,0.96,671,632,Cells H539 I539 have a small sample size
+The Cotswolds,E14000991,59,52,79.2,1,2.5,11,18.5,"1,068",1.8,60,1.01,603,560,Cells F540 G540 have a small sample size
+Thornbury and Yate,E14000994,52,48,83.3,[c],[c],9,16.7,886,1.7,43,0.83,611,532,
+Tiverton and Honiton,E14000996,58,45,78.8,1,2.5,10,19.1,"1,191",2.0,41,0.71,574,568,Cells F542 G542 have a small sample size
+Torbay,E14000999,57,43,75.6,1,2.6,12,22.2,"2,170",3.8,44,0.77,543,538,Cells F543 G543 have a small sample size
+Torridge and West Devon,E14001000,57,52,82.4,[c],[c],10,17.6,"1,248",2.2,43,0.75,551,475,Cells H544 I544 have a small sample size
+Totnes,E14001001,47,43,78.8,1,2.2,9,19.2,"1,214",2.6,43,0.92,537,514,Cells F545 G545 have a small sample size
+Truro and Falmouth,E14001003,59,42,73.3,[c],[c],14,24.6,"1,390",2.4,69,1.18,547,527,
+Wells,E14001026,61,51,84.3,2,3.8,7,12.1,"1,808",3.0,51,0.83,535,531,Cells F547 G547 H547 I547 have a small sample size
+West Dorset,E14001031,53,45,75.5,1,2.7,12,22.2,"1,189",2.2,60,1.12,535,538,Cells F548 G548 have a small sample size
+Weston-Super-Mare,E14001038,66,54,84.0,1,1.5,9,14.6,"2,184",3.3,52,0.78,528,509,Cells F549 G549 have a small sample size
+Yeovil,E14001060,64,59,78.0,[c],[c],14,20.7,"1,610",2.5,61,0.94,598,583,Cells H550 I550 have a small sample size
+Wales,W92000004,"1,893","1,456",73.3,45,3.0,466,24.4,"66,335",3.5,"1,458",0.77,571,563,
+Aberavon,W07000049,43,27,62.2,2,5.8,14,33.9,"1,531",3.5,37,0.86,608,621,Cells F552 G552 have a small sample size
+Aberconwy,W07000058,34,26,74.2,1,2.6,8,23.7,"1,059",3.1,24,0.72,554,543,Cells F553 G553 have a small sample size
+Alyn and Deeside,W07000043,53,37,84.3,[c],[c],6,14.3,"1,525",2.9,55,1.03,560,576,
+Arfon,W07000057,41,38,74.2,1,1.4,12,24.7,"1,291",3.2,37,0.90,568,606,Cells F555 G555 have a small sample size
+Blaenau Gwent,W07000072,44,33,73.8,1,2.0,11,24.7,"1,875",4.3,20,0.47,523,578,Cells F556 G556 have a small sample size
+Brecon and Radnorshire,W07000068,38,33,69.9,[c],[c],12,29.3,966,2.5,35,0.90,542,582,
+Bridgend,W07000073,53,36,73.1,1,1.9,12,25.4,"1,605",3.0,45,0.86,636,613,Cells F558 G558 have a small sample size
+Caerphilly,W07000076,55,42,74.6,2,4.4,12,21.8,"1,902",3.5,36,0.66,544,489,Cells F559 G559 have a small sample size
+Cardiff Central,W07000050,70,34,57.0,[c],[c],23,41.7,"2,677",3.8,81,1.15,564,592,
+Cardiff North,W07000051,57,54,74.8,[c],[c],17,24.9,"1,293",2.3,55,0.95,661,569,
+Cardiff South and Penarth,W07000080,78,65,81.9,[c],[c],13,17.0,"3,518",4.5,85,1.08,537,607,
+Cardiff West,W07000079,60,47,68.4,1,2.9,21,30.0,"2,527",4.2,34,0.57,586,570,Cells F563 G563 have a small sample size
+Carmarthen East and Dinefwr,W07000067,42,30,69.8,1,2.4,12,28.6,"1,187",2.8,25,0.59,600,533,Cells F564 G564 have a small sample size
+Carmarthen West and South Pembrokeshire,W07000066,45,35,74.0,1,2.3,11,24.3,"1,407",3.1,41,0.92,576,582,Cells F565 G565 have a small sample size
+Ceredigion,W07000064,43,37,73.2,1,2.9,12,24.4,"1,178",2.7,36,0.82,554,549,Cells F566 G566 have a small sample size
+Clwyd South,W07000062,43,37,77.7,1,3.8,9,19.1,"1,315",3.0,21,0.48,549,545,Cells F567 G567 have a small sample size
+Clwyd West,W07000059,41,32,77.6,1,2.0,8,20.9,"1,514",3.7,31,0.75,561,510,Cells F568 G568 have a small sample size
+Cynon Valley,W07000070,44,34,65.1,1,3.9,16,32.1,"1,820",4.1,18,0.41,528,489,Cells F569 G569 have a small sample size
+Delyn,W07000042,41,38,72.3,1,3.4,13,25.0,"1,375",3.3,26,0.63,607,498,Cells F570 G570 have a small sample size
+Dwyfor Meirionnydd,W07000061,35,22,82.1,[c],[c],4,17.9,795,2.3,25,0.71,456,438,
+Gower,W07000046,47,40,82.7,[c],[c],8,16.6,"1,056",2.3,22,0.48,592,610,
+Islwyn,W07000077,48,32,70.9,1,2.5,12,27.6,"1,543",3.2,25,0.52,615,602,Cells F573 G573 have a small sample size
+Llanelli,W07000045,50,34,72.8,1,2.4,12,25.4,"1,616",3.2,35,0.69,543,527,Cells F574 G574 have a small sample size
+Merthyr Tydfil and Rhymney,W07000071,48,35,68.4,1,3.2,15,29.3,"2,022",4.2,28,0.60,520,518,Cells F575 G575 have a small sample size
+Monmouth,W07000054,50,37,76.1,1,1.4,11,22.8,"1,194",2.4,42,0.84,648,563,Cells F576 G576 have a small sample size
+Montgomeryshire,W07000063,37,27,77.6,2,8.4,5,14.7,855,2.3,31,0.83,517,528,Cells F577 G577 H577 I577 have a small sample size
+Neath,W07000069,46,35,76.5,1,3.0,9,21.0,"1,337",2.9,18,0.40,569,531,Cells F578 G578 have a small sample size
+Newport East,W07000055,52,36,74.7,1,3.2,11,22.9,"2,349",4.5,31,0.59,602,622,Cells F579 G579 have a small sample size
+Newport West,W07000056,56,44,73.5,3,5.5,13,22.2,"2,650",4.7,59,1.05,571,509,Cells F580 G580 have a small sample size
+Ogmore,W07000074,49,39,72.0,1,1.6,14,26.8,"1,501",3.0,24,0.48,541,564,Cells F581 G581 have a small sample size
+Pontypridd,W07000075,52,37,76.5,[c],[c],11,22.5,"1,359",2.6,49,0.94,632,560,
+Preseli Pembrokeshire,W07000065,46,36,74.5,2,4.7,10,21.6,"1,467",3.2,35,0.75,570,525,Cells F583 G583 have a small sample size
+Rhondda,W07000052,43,25,66.6,[c],[c],11,31.1,"1,731",4.1,15,0.34,510,470,
+Swansea East,W07000048,54,47,73.3,3,6.6,13,21.4,"2,223",4.1,52,0.96,515,528,Cells F585 G585 have a small sample size
+Swansea West,W07000047,56,36,73.6,3,8.6,9,19.8,"2,243",4.0,44,0.79,549,550,Cells F586 G586 have a small sample size
+Torfaen,W07000053,52,38,73.3,2,4.0,12,23.8,"2,068",4.0,33,0.64,567,567,Cells F587 G587 have a small sample size
+Vale of Clwyd,W07000060,42,30,69.2,1,3.7,11,28.0,"1,795",4.2,37,0.87,518,575,Cells F588 G588 have a small sample size
+Vale of Glamorgan,W07000078,64,45,78.7,1,1.4,11,20.4,"2,106",3.3,34,0.54,576,498,Cells F589 G589 have a small sample size
+Wrexham,W07000044,44,32,67.6,2,5.3,13,28.4,"1,492",3.4,52,1.20,590,566,Cells F590 G590 have a small sample size
+Ynys Mon,W07000041,40,32,76.9,1,2.3,8,21.3,"1,369",3.4,26,0.65,588,550,Cells F591 G591 have a small sample size
+Scotland,S92000003,"3,495","2,644",74.4,94,3.4,789,22.9,"117,638",3.4,"2,835",0.81,622,622,
+Aberdeen North,S14000001,72,51,74.4,4,7.2,14,20.4,"3,090",4.3,75,1.05,542,660,Cells F593 G593 have a small sample size
+Aberdeen South,S14000002,65,49,66.1,1,2.1,23,32.4,"1,886",2.9,61,0.94,634,597,Cells F594 G594 have a small sample size
+Airdrie and Shotts,S14000003,56,30,57.5,[c],[c],21,41.2,"2,203",4.0,35,0.62,598,558,
+Angus,S14000004,51,35,72.1,1,3.2,12,25.4,"1,773",3.5,34,0.65,590,631,Cells F596 G596 have a small sample size
+Argyll and Bute,S14000005,51,40,74.7,[c],[c],12,24.3,"1,498",3.0,47,0.92,563,556,
+"Ayr, Carrick and Cumnock",S14000006,54,33,65.1,3,7.8,14,29.1,"2,452",4.5,38,0.71,548,535,Cells F598 G598 have a small sample size
+Banff and Buchan,S14000007,56,39,81.0,[c],[c],9,19.0,"1,610",2.9,42,0.76,526,481,Cells H599 I599 have a small sample size
+"Berwickshire, Roxburgh and Selkirk",S14000008,55,44,78.1,3,5.6,9,16.9,"1,801",3.3,46,0.82,528,527,Cells F600 G600 have a small sample size
+"Caithness, Sutherland and Easter Ross",S14000009,35,22,69.9,[c],[c],7,25.7,"1,098",3.1,28,0.78,579,586,Cells H601 I601 have a small sample size
+Central Ayrshire,S14000010,52,39,70.2,1,2.7,15,28.0,"2,071",4.0,41,0.79,690,634,Cells F602 G602 have a small sample size
+"Coatbridge, Chryston and Bellshill",S14000011,62,46,73.3,[c],[c],16,25.3,"2,074",3.4,49,0.79,606,639,Cells H603 I603 have a small sample size
+"Cumbernauld, Kilsyth and Kirkintilloch East",S14000012,55,40,72.8,2,4.4,13,24.0,"1,925",3.5,34,0.62,625,595,Cells F604 G604 have a small sample size
+Dumfries and Galloway,S14000013,55,42,67.9,2,5.1,17,28.3,"1,786",3.2,45,0.81,573,573,Cells F605 G605 have a small sample size
+"Dumfriesshire, Clydesdale and Tweeddale",S14000014,50,33,72.4,2,4.6,10,23.9,"1,400",2.8,37,0.74,601,502,Cells F606 G606 have a small sample size
+Dundee East,S14000015,56,44,77.3,2,4.6,10,19.0,"1,780",3.2,30,0.53,595,560,Cells F607 G607 have a small sample size
+Dundee West,S14000016,61,41,65.3,4,8.9,18,28.2,"2,791",4.6,62,1.03,551,621,Cells F608 G608 have a small sample size
+Dunfermline and West Fife,S14000017,65,45,75.0,2,4.2,13,21.7,"2,072",3.2,49,0.76,616,632,Cells F609 G609 have a small sample size
+East Dunbartonshire,S14000018,49,38,78.1,1,1.7,10,20.6,809,1.6,24,0.48,794,556,Cells F610 G610 have a small sample size
+"East Kilbride, Strathaven and Lesmahagow",S14000019,66,47,79.5,2,3.8,10,17.3,"1,729",2.6,44,0.67,666,660,Cells F611 G611 have a small sample size
+East Lothian,S14000020,66,52,76.2,1,1.6,15,22.7,"1,643",2.5,42,0.63,594,619,Cells F612 G612 have a small sample size
+East Renfrewshire,S14000021,57,45,76.9,1,3.2,12,20.5,"1,029",1.8,23,0.41,809,627,Cells F613 G613 have a small sample size
+Edinburgh East,S14000022,83,54,74.0,[c],[c],17,23.6,"2,275",2.8,92,1.11,577,637,Cells H614 I614 have a small sample size
+Edinburgh North and Leith,S14000023,85,87,84.4,[c],[c],14,14.2,"2,448",2.9,116,1.36,675,625,Cells H615 I615 have a small sample size
+Edinburgh South,S14000024,61,51,71.1,[c],[c],20,28.0,"1,105",1.8,33,0.55,687,647,
+Edinburgh South West,S14000025,75,52,80.5,[c],[c],12,19.5,"1,955",2.6,92,1.24,629,688,Cells H617 I617 have a small sample size
+Edinburgh West,S14000026,65,46,85.3,[c],[c],8,14.7,"1,351",2.1,61,0.95,640,576,Cells H618 I618 have a small sample size
+Falkirk,S14000028,71,59,76.5,4,5.7,15,19.0,"2,275",3.2,54,0.75,596,576,Cells F619 G619 have a small sample size
+Glasgow Central,S14000029,84,55,76.3,[c],[c],16,22.9,"4,209",5.0,238,2.82,726,645,Cells H620 I620 have a small sample size
+Glasgow East,S14000030,64,52,71.7,3,5.8,17,23.8,"3,471",5.4,43,0.67,564,578,Cells F621 G621 H621 I621 have a small sample size
+Glasgow North,S14000031,61,33,73.3,2,5.6,10,22.2,"2,219",3.6,35,0.58,637,599,Cells F622 G622 H622 I622 have a small sample size
+Glasgow North East,S14000032,61,42,68.8,2,5.3,16,27.3,"3,721",6.1,44,0.72,600,582,Cells F623 G623 H623 I623 have a small sample size
+Glasgow North West,S14000033,60,65,76.2,[c],[c],20,23.4,"3,090",5.1,32,0.53,638,573,
+Glasgow South,S14000034,61,40,71.8,[c],[c],14,25.2,"2,531",4.2,21,0.34,738,635,Cells H625 I625 have a small sample size
+Glasgow South West,S14000035,59,30,62.8,[c],[c],17,36.0,"3,358",5.7,52,0.88,541,725,Cells H626 I626 have a small sample size
+Glenrothes,S14000036,54,45,68.7,4,7.4,17,25.8,"2,417",4.5,38,0.70,559,567,Cells F627 G627 have a small sample size
+Gordon,S14000037,64,59,76.3,7,10.5,11,14.7,"1,320",2.0,66,1.03,668,634,Cells F628 G628 have a small sample size
+Inverclyde,S14000038,48,37,76.3,1,2.5,10,21.6,"1,936",4.0,29,0.60,570,685,Cells F629 G629 have a small sample size
+"Inverness, Nairn, Badenoch and Strathspey",S14000039,66,62,71.5,3,4.1,21,25.4,"1,561",2.4,70,1.06,615,619,Cells F630 G630 have a small sample size
+Kilmarnock and Loudoun,S14000040,60,46,70.7,1,2.5,17,27.6,"2,713",4.5,41,0.68,644,730,Cells F631 G631 have a small sample size
+Kirkcaldy and Cowdenbeath,S14000041,60,38,75.0,2,3.9,11,22.0,"3,000",5.0,35,0.58,624,599,Cells F632 G632 H632 I632 have a small sample size
+Lanark and Hamilton East,S14000042,61,50,74.9,2,4.2,14,21.7,"2,190",3.6,51,0.83,700,564,Cells F633 G633 have a small sample size
+Linlithgow and East Falkirk,S14000043,76,52,78.6,2,4.3,12,17.8,"2,253",3.0,45,0.60,607,626,Cells F634 G634 have a small sample size
+Livingston,S14000044,72,58,74.7,[c],[c],19,24.3,"2,005",2.8,61,0.84,582,583,
+Midlothian,S14000045,57,47,79.4,1,1.7,11,19.1,"1,414",2.5,38,0.65,599,524,Cells F636 G636 have a small sample size
+Moray,S14000046,59,47,76.6,2,4.8,12,19.6,"1,512",2.6,46,0.79,566,579,Cells F637 G637 have a small sample size
+Motherwell and Wishaw,S14000047,61,49,68.2,[c],[c],21,29.4,"2,410",4.0,30,0.50,550,616,
+Na h-Eileanan an Iar,S14000027,15,14,84.1,[c],[c],2,15.9,362,2.4,14,0.94,670,670,Cells H639 I639 have a small sample size
+North Ayrshire and Arran,S14000048,56,42,77.5,1,1.9,11,21.0,"2,667",4.8,26,0.46,605,553,Cells F640 G640 have a small sample size
+North East Fife,S14000049,53,46,81.6,[c],[c],9,17.9,"1,030",2.0,30,0.56,633,567,
+Ochil and South Perthshire,S14000050,64,48,72.7,1,2.1,16,25.8,"1,751",2.7,39,0.61,618,561,Cells F642 G642 have a small sample size
+Orkney and Shetland,S14000051,27,24,81.4,[c],[c],5,18.6,480,1.8,29,1.08,620,618,Cells H643 I643 have a small sample size
+Paisley and Renfrewshire North,S14000052,60,45,79.0,1,2.9,10,18.8,"1,642",2.8,57,0.95,701,593,Cells F644 G644 have a small sample size
+Paisley and Renfrewshire South,S14000053,55,39,63.9,2,4.9,19,32.6,"2,117",3.8,33,0.59,629,630,Cells F645 G645 have a small sample size
+Perth and North Perthshire,S14000054,59,44,74.8,2,4.6,12,21.5,"1,692",2.9,55,0.94,571,646,Cells F646 G646 have a small sample size
+"Ross, Skye and Lochaber",S14000055,42,24,73.2,[c],[c],8,26.8,924,2.2,31,0.74,621,581,Cells H647 I647 have a small sample size
+Rutherglen and Hamilton West,S14000056,68,61,85.0,1,1.6,10,13.5,"2,715",4.0,36,0.53,577,667,Cells F648 G648 H648 I648 have a small sample size
+Stirling,S14000057,60,46,76.4,2,3.6,12,20.6,"1,432",2.4,51,0.85,653,649,Cells F649 G649 have a small sample size
+West Aberdeenshire and Kincardine,S14000058,59,54,78.5,2,3.3,12,18.7,916,1.5,46,0.78,750,635,Cells F650 G650 have a small sample size
+West Dunbartonshire,S14000059,56,44,75.8,1,3.0,12,22.0,"2,658",4.7,38,0.68,651,575,Cells F651 G651 have a small sample size
+Northern Ireland,N92000002,"1,187",879,71.9,20,2.2,308,26.3,"36,600",3.1,894,0.75,575,575,
